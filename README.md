@@ -17,6 +17,11 @@ A repo containing useful links to courses and educational material for various s
 |[Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/) | Stanford University | Course, Book | Covers the basics of vectors and matrices, solving linear equations, least-squares methods, and many applications. Two versions of the book, with one version based on Python code. | 2020 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) [📖](https://web.stanford.edu/~boyd/vmls/vmls.pdf) [📖](https://ses.library.usyd.edu.au/bitstream/handle/2123/21370/vmls-python-companion.pdf?sequence=3&isAllowed=y) [💻](https://github.com/vbartle/VMLS-Companions/tree/master)|
 |[Linear Algebra](https://joshua.smcvt.edu/linearalgebra) | Jim Hefferon | Book | Covers material expected for typical undergraduate course in linear algebra. | 2020 | Free |  [📖](https://joshua.smcvt.edu/linearalgebra/book.pdf) |
 | [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) | Jacob Ström, Kalle Åström, and Tomas Akenine-Möller | Interactive tutorials | Online tutorials with interactive figures to help learn linear algebra concepts. | 2020 | Free | |
+| [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown | Youtube tutorials | Great visualizations providing geometric understanding of the core concepts of linear algebra. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| [Linear algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Khan Academy | Youtube playlist | Matrices, vectors, vector spaces, transformations. From very basics through to eigenvectors.  Covers all topics in a first year college linear algebra course. | 2014 | Free | [🎥](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) |
+| [Data driven science and engineering: Dimensionality reduction and transforms](http://databookuw.com/page-2/page2.html) | Steve Brunton, University of Washington | Youtube Playlist, Book chapter | Brilliant video lectures covering singular value decomposition (SVD) for dimensionality reduction. Chapter 1 from book. | 2019 | Free | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) [📖](http://databookuw.com/page-2/page2.html)
+
+
 
 
 
