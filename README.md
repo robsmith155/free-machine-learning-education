@@ -27,6 +27,12 @@ A repo containing useful links to courses and educational material for various s
 
 ## Foundation: Calculus
 
+| Title | Provider | Format |Description | Latest release | Cost | Resources |
+| --- | --- | --- | --- | --- | --- | --- |
+| [The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html) | Terence Parr & Jeremy Howard | Article | Article on explained.ai by Jeremy Howard explaining all the matrix calculus you need to know for training deep neural networks. | - | Free | - |
+| [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) | Khan Academy | Youtube playlist | Almost 200 short videos on calculus, starting from very basics. | 2014 | Free | [🎥](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
+| [Essense of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | Youtube | Series of short videos providing good intuition on calculus topis | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+
 
 
 ## Foundation: Probability and statistics
