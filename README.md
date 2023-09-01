@@ -20,7 +20,7 @@ A repo containing useful links to courses and educational material for various s
 | [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown | Youtube tutorials | Great visualizations providing geometric understanding of the core concepts of linear algebra. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | [Linear algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Khan Academy | Youtube playlist | Matrices, vectors, vector spaces, transformations. From very basics through to eigenvectors.  Covers all topics in a first year college linear algebra course. | 2014 | Free | [🎥](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) |
 | [Data driven science and engineering: Dimensionality reduction and transforms](http://databookuw.com/page-2/page2.html) | Steve Brunton, University of Washington | Youtube Playlist, Book chapter | Brilliant video lectures covering singular value decomposition (SVD) for dimensionality reduction. Chapter 1 from book. | 2019 | Free | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) [📖](http://databookuw.com/page-2/page2.html)
-
+[Mathematics for machine learning: Vector calculus](https://mml-book.github.io/book/mml-book.pdf#page=145) | M. Deisenroth, A. Faisal and C. Ong | Book chapter | Very good guidebook covering the mathematical foundations of modern ML. | 2020 | Free | [📖](https://mml-book.github.io/) |
 
 
 
@@ -32,8 +32,8 @@ A repo containing useful links to courses and educational material for various s
 | [The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html) | Terence Parr & Jeremy Howard | Article | Article on explained.ai by Jeremy Howard explaining all the matrix calculus you need to know for training deep neural networks. | - | Free | - |
 | [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) | Khan Academy | Youtube playlist | Almost 200 short videos on calculus, starting from very basics. | 2014 | Free | [🎥](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
 | [Essense of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | Youtube | Series of short videos providing good intuition on calculus topis | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
-
-
+[Mathematics for machine learning](https://mml-book.github.io/book/mml-book.pdf) | M. Deisenroth, A. Faisal and C. Ong | Book | Very good guidebook covering the mathematical foundations of modern ML. Chapters 2-3 cover linear algebra topics. | 2020 | Free | [📖](https://mml-book.github.io/) |
+| [Calculus online textbook](https://ocw.mit.edu/courses/res-18-001-calculus-online-textbook-spring-2005/pages/textbook/) | MIT | Book | Complete textbook by Gilbert Strang that covers single variable and multivariable calculus in depth. Also see the [Highlights of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) short video series. | 2005 | Free | [📖](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) [🎥](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) |
 
 ## Foundation: Probability and statistics
 
