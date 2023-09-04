@@ -37,6 +37,13 @@ A repo containing useful links to courses and educational material for various s
 
 ## Foundation: Probability and statistics
 
+| Title | Provider | Format |Description | Latest release | Cost | Resources |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Think Stats: Probability and statistics for programmers](https://allendowney.github.io/ThinkStats2/) | Allen Downey | Book | Use Python skills to learn probability and statistics concepts. | - | Free | [📖](https://greenteapress.com/thinkstats2/thinkstats2.pdf) [💻](https://github.com/AllenDowney/ThinkStats2) [BLOG](https://www.allendowney.com/blog/)|
+|[Think Bayes: Bayesian statistics made simple](http://allendowney.github.io/ThinkBayes2/) | Allen Downey | Book | Introduction to Bayesian statistics using computational methods in Python. | - | Free | [📖](http://allendowney.github.io/ThinkBayes2/) [💻](https://github.com/AllenDowney/ThinkBayes2) [BLOG](https://www.allendowney.com/blog/)|
+| [Statistics 101](https://www.youtube.com/c/BrandonFoltz/playlists) | Brandon Foltz | Youtube tutorials | Introductory set of YouTube lectures for various topics in statistics.| - | Free | [🎥](https://www.youtube.com/c/BrandonFoltz/playlists) |
+
+
 
 
 ## Machine learning
