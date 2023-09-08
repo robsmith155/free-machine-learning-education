@@ -42,7 +42,10 @@ A repo containing useful links to courses and educational material for various s
 | [Think Stats: Probability and statistics for programmers](https://allendowney.github.io/ThinkStats2/) | Allen Downey | Book | Use Python skills to learn probability and statistics concepts. | - | Free | [📖](https://greenteapress.com/thinkstats2/thinkstats2.pdf) [💻](https://github.com/AllenDowney/ThinkStats2) [BLOG](https://www.allendowney.com/blog/)|
 |[Think Bayes: Bayesian statistics made simple](http://allendowney.github.io/ThinkBayes2/) | Allen Downey | Book | Introduction to Bayesian statistics using computational methods in Python. | - | Free | [📖](http://allendowney.github.io/ThinkBayes2/) [💻](https://github.com/AllenDowney/ThinkBayes2) [BLOG](https://www.allendowney.com/blog/)|
 | [Statistics 101](https://www.youtube.com/c/BrandonFoltz/playlists) | Brandon Foltz | Youtube tutorials | Introductory set of YouTube lectures for various topics in statistics.| - | Free | [🎥](https://www.youtube.com/c/BrandonFoltz/playlists) |
-
+| [Probability primer](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4) | Mathematicalmonk | Youtube playlist | Videos about math, at the graduate level or upper-level undergraduate. | - | Free | [🎥](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4) |
+| [StatQuest](https://www.youtube.com/@statquest/playlists) | Josh Starmer | YouTube | Useful YouTube channel with statistics and machine learning short videos | - | Free | [🎥](https://www.youtube.com/@statquest/playlists) | 
+| [Seeing Theory](https://seeing-theory.brown.edu/) | Daniel Kunin | Interactive book | Visual introduction to probability and statistics. | - | Free | [📖](https://seeing-theory.brown.edu/) |
+| [Introduction to probability - The science of uncertainty](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data) | MIT | Course | MIT course available on EdX. An introduction to probabilistic models, including random processes and the basic elements of statistical inference. | 2023 | Free to audit |  |
 
 
 
