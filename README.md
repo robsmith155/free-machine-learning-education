@@ -58,7 +58,13 @@ A repo containing useful links to courses and educational material for various s
 
 ## Machine learning
 
-
+| Title | Provider | Format |Description | Latest release | Cost | Resources |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Machine learning specialization](https://www.coursera.org/specializations/machine-learning-introduction) | Coursera / DeepLearning.AI | Course | Course by Andrew Ng giving broad introduction to machine learning, including supervised and unsupervised learning. Assignments in Python. | 2022 | Audit for free | [🎥](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) [SLIDES](https://www.deeplearning.ai/courses/machine-learning-specialization/#course-slides) |
+| [Introduction to ML for coders](https://www.fast.ai/posts/2018-09-26-ml-launch.html) | fast.ai | Course | Practical introduction to ML from Jeremy Howard. | 2018 | Free | [🎥](https://www.youtube.com/watch?v=CzdWqFTmn0Y&list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) [📖](https://mlbook.explained.ai/) |
+| [Machine Learning Mastery](https://machinelearningmastery.com/) | Jason Brownlee | Tutorials, ebooks | Website containing useful articles, tutorials and ebooks for machine learning | - | Free (need to pay for ebooks) | [WEBPAGE](https://machinelearningmastery.com/) |
+| [StatQuest](https://www.youtube.com/@statquest/playlists) | Josh Starmer | YouTube | Useful YouTube channel with statistics and machine learning short videos | - | Free | [🎥](https://www.youtube.com/@statquest/playlists) | 
+| [Machine learning - overiew and applications](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA) | Mathematicalmonk | Youtube playlist | YouTube channel with playlists on probability, information theory and machine learning. | - | Free | [🎥](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA) |
 
 ## Deep learning
 
