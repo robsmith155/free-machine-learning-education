@@ -1,6 +1,14 @@
 # ml-educational-resources
 A repo containing useful links to courses and educational material for various sectors related to machine and deep learning
 
+## Table of Contents
+- [Foundation: Python and data science packages](#foundation-python-and-data-science-packages)
+- [Foundation: Linear Algebra](#foundation-linear-algebra)
+- [Foundation: Calculus](#foundation-calculus)
+- [Foundation: Probability and Statistics](#foundation-probability-and-statistics)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+
 # Resources
 
 ## Foundation: Python and data science packages
