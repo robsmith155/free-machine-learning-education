@@ -4,6 +4,13 @@ A repo containing useful links to courses and educational material for various s
 # Resources
 
 ## Foundation: Python and data science packages
+| Title | Provider | Format |Description | Latest release | Cost | Resources |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Real Python](https://realpython.com/) | Real Python | Online tutorials | Great website with Python tutorials,  articles and learning paths. A lot of articles are free, but you need to pay for many video courses. | - | Free, 25 GBP per month for paid content | [WEBPAGE/TUTORIALS](https://realpython.com/) |
+| [DataQuest](https://www.dataquest.io/) | Data Quest | Online coding tutorials | Hands-on, interactive coding based learning. Read then do interface (no videos). Learning paths inlcude Data Scientist and Data Engineer. | - |  From $24.50 per month | [WEBPAGE/TUTORIALS](https://www.dataquest.io/) |
+| [Data Camp](https://www.datacamp.com/) | DataCamp | Online courses | Similar to DataQuest but with video content. Various courses to help you learn Python for data science. | - | 20 GBP per month | [WEBPAGE](https://www.datacamp.com/) |
+| [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html) | Jake Van der Plas | Book, Notebooks | Introduces essential Python libraries such as Numpy, Pandas, Matplotlib and Scikit-learn. Assumes some knowledge of coding/Python. | 2023 | Free | [📖](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)  [💻](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master) |
+| [Pythontutor](https://pythontutor.com/) | Pythontutor.com | Interactive website | Helps you learn Python (and other languages) by visualizing code execution. | - | Free | [WEBPAGE](https://pythontutor.com/) |
 
 
 
