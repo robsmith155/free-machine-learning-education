@@ -19,6 +19,7 @@ A repo containing useful links to courses and educational material for various s
 | [Data Camp](https://www.datacamp.com/) | DataCamp | Online courses | Similar to DataQuest but with video content. Various courses to help you learn Python for data science. | - | 20 GBP per month | [WEBPAGE](https://www.datacamp.com/) |
 | [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html) | Jake Van der Plas | Book, Notebooks | Introduces essential Python libraries such as Numpy, Pandas, Matplotlib and Scikit-learn. Assumes some knowledge of coding/Python. | 2023 | Free | [📖](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)  [💻](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master) |
 | [Pythontutor](https://pythontutor.com/) | Pythontutor.com | Interactive website | Helps you learn Python (and other languages) by visualizing code execution. | - | Free | [WEBPAGE](https://pythontutor.com/) |
+| [CS50: Introduction to programming with Python](https://cs50.harvard.edu/python/2022/) | Harvard | Course | Excellent lectures by Dr. David Malan. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python. | 2023 | Free (pay to verify) | [🎥](https://www.youtube.com/watch?v=8mAITcNt710&t=0s) | 
 
 
 
@@ -103,6 +104,12 @@ A repo containing useful links to courses and educational material for various s
 
 
 ## Specailty: ML deployment
+
+| Title | Provider | Format |Description | Latest release | Cost | Resources |
+| --- | --- | --- | --- | --- | --- | --- |
+| [ML for Developers](https://madewithml.com/courses/mlops/) | Made With ML | Course | Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production ML applications. Course walks through fine-tuning LLM for production. | 2023 | Free | [WEBPAGE](https://madewithml.com/courses/mlops/) [💻](https://github.com/GokuMohandas/Made-With-ML) | 
+| [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | DataTalksClub | Online course | Teaches practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=s0uaFZSzwfI&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) [💻](https://github.com/DataTalksClub/mlops-zoomcamp) |
+| [ML Systems Design](https://stanford-cs329s.github.io/) | Stanford | Course | This course (CS 329S) aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable. Videos not available. | 2022 | Free | [SYMBOL](https://stanford-cs329s.github.io/syllabus.html) [📖](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) |
 
 
 
