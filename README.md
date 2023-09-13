@@ -82,6 +82,8 @@ A repo containing useful links to courses and educational material for various s
 | --- | --- | --- | --- | --- | --- | --- |
 | [Practical Deep Learning for Coders 2022: Part 1](https://course.fast.ai/) | Fast.ai | Course | A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems. | 2022 | Free |  [📖](https://course.fast.ai/Resources/book.html) [🎥](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU&pp=iAQB) [📙](https://github.com/fastai/course22)|
 | [Practical Deep Learning for Coders 2022 - Part 2 : Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html)| Fast.ai | Course | Continuation from [part 1](https://course.fast.ai/), delving deeper into topics and building Stable Diffusion from scratch. | 2022 | Free | [🎥](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) [📙](https://github.com/fastai/course22p2) |
+| [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) | MIT | Course | MIT's introductory program on deep learning methods with applications to computer vision, natural language processing, biology, and more. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) [💻](https://github.com/aamini/introtodeeplearning/) |
+| [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) | Andrej Karpathy | Youtube tutorials | Excellent tutorials building neural networks from scratch in Jupyter Notebooks. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) | 
 
 
 
@@ -92,7 +94,9 @@ A repo containing useful links to courses and educational material for various s
 
 ## Speciality: NLP
 
-
+| Title | Provider | Format |Description | Latest release | Cost | Resources |
+| --- | --- | --- | --- | --- | --- | --- |
+| [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) | The Full Stack | Bootcamp | XXXXX | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
 
 ## Specailty: Reinforcement learning
 
