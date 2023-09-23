@@ -12,7 +12,7 @@ A repo containing useful links to courses and educational material for various s
 - [Specialization: NLP](#specialization-nlp)
 - [Specialization: Reinforcement Learning](#specialization-reinforcement-learning)
 - [Specialization: Unsupervised Deep Learning](#specialization-unsupervised-deep-learning)
-- [Specialization: MLOpsML Deployment](#specialization-ml-deployment)
+- [Specialization: ML Deployment](#specialization-ml-deployment)
 - [Specialization: Other Advanced Topics](#specialization-other-advanced-topics)
 
 # Resources
@@ -26,6 +26,7 @@ A repo containing useful links to courses and educational material for various s
 | [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html) | Jake Van der Plas | Book, Notebooks | Introduces essential Python libraries such as Numpy, Pandas, Matplotlib and Scikit-learn. Assumes some knowledge of coding/Python. | 2023 | Free | [📖](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)  [💻](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master) |
 | [Pythontutor](https://pythontutor.com/) | Pythontutor.com | Interactive website | Helps you learn Python (and other languages) by visualizing code execution. | - | Free | [WEBPAGE](https://pythontutor.com/) |
 | [CS50: Introduction to programming with Python](https://cs50.harvard.edu/python/2022/) | Harvard | Course | Excellent lectures by Dr. David Malan. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python. | 2023 | Free (pay to verify) | [🎥](https://www.youtube.com/watch?v=8mAITcNt710&t=0s) | 
+| [Code Academy](https://www.codecademy.com/catalog/language/python) | CodeAcademy | Interactive course | Interactive coding tutorials for many programming languages, including Python. | - | Free for basic courses | [WEBPAGE](https://www.codecademy.com/catalog/language/python) |
 
 
 
@@ -81,6 +82,9 @@ A repo containing useful links to courses and educational material for various s
 | [StatQuest](https://www.youtube.com/@statquest/playlists) | Josh Starmer | YouTube | Useful YouTube channel with statistics and machine learning short videos | - | Free | [🎥](https://www.youtube.com/@statquest/playlists) | 
 | [Machine learning - overiew and applications](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA) | Mathematicalmonk | Youtube playlist | YouTube channel with playlists on probability, information theory and machine learning. | - | Free | [🎥](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA) |
 | [CS229: Machine Learning](http://cs229.stanford.edu/) | Stanford | Course | This course provides a broad introduction to machine learning and statistical pattern recognition. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) | 
+| [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | Kevin Murphy | Book | Comprehensive books covering the field of ML from probabilistic perspective. | 2022 | Free | [📖](https://probml.github.io/pml-book/book1.html) |
+| [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) | Kevin Murphy | Book | Sequel to previous book that dives deeper into various ML topics. | 2022 | Free | [📖](https://probml.github.io/pml-book/book2.html) |
+| [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B0BHCFNY9Q?ref_=ast_author_mpb) |  Aurélien Géron | Book | Highly rated book introducing machine learning theory with practical examples using Scikit-Learn. Also has a section on deep learning in TensorFlow/Keras. |  2022 | $35 | - |
 
 
 ## Deep learning
@@ -88,11 +92,19 @@ A repo containing useful links to courses and educational material for various s
 
 | Title | Provider | Format |Description | Latest release | Cost | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Practical Deep Learning for Coders 2022: Part 1](https://course.fast.ai/) | Fast.ai | Course | A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems. | 2022 | Free |  [📖](https://course.fast.ai/Resources/book.html) [🎥](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU&pp=iAQB) [📙](https://github.com/fastai/course22)|
-| [Practical Deep Learning for Coders 2022 - Part 2 : Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html)| Fast.ai | Course | Continuation from [part 1](https://course.fast.ai/), delving deeper into topics and building Stable Diffusion from scratch. | 2022 | Free | [🎥](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) [📙](https://github.com/fastai/course22p2) |
+| [Practical Deep Learning for Coders 2022: Part 1](https://course.fast.ai/) | Fast.ai | Course, Book | A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems. | 2022 | Free |  [📖](https://course.fast.ai/Resources/book.html) [🎥](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU&pp=iAQB) [📙](https://github.com/fastai/course22)|
+| [Practical Deep Learning for Coders 2022 - Part 2 : Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html)| Fast.ai | Course | Continuation from [part 1](https://course.fast.ai/), delving deeper into topics and building Stable Diffusion from scratch. | 2022 | Free | [🎥](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) [📙](https://github.com/fastai/course22p2) | Famous course taught by Andrew Ng. Great intermediate overview of deep learning. | - | Free to audit. $49 per month for full access | - |
+| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera / DeepLearningAI | Course | 
 | [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) | MIT | Course | MIT's introductory program on deep learning methods with applications to computer vision, natural language processing, biology, and more. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) [💻](https://github.com/aamini/introtodeeplearning/) |
 | [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) | Andrej Karpathy | Youtube tutorials | Excellent tutorials building neural networks from scratch in Jupyter Notebooks. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) | 
-| [NYU Deep Learning](https://cds.nyu.edu/deep-learning/) | NYU | Course | This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, with applications to computer vision, natural language understanding, and speech recognition. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) [📙](https://github.com/Atcold/NYU-DLSP20/tree/master) |
+| [NYU Deep Learning](https://cds.nyu.edu/deep-learning/) | NYU | Course | Covers the latest techniques in deep learning and representation learning with applications to computer vision, natural language understanding, and speech recognition. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) [📙](https://github.com/Atcold/NYU-DLSP20/tree/master) |
+| [Deep Learning Course](https://fleuret.org/dlc/) | University of Geneva | Course | Introduction to deep learning by Francois Fleuret with examples in PyTorch. | 2021 | Free | [WEB](https://fleuret.org/dlc/) |
+| [Dive into Deep Learning](https://d2l.ai/index.html) | - | Interactive book | Interactive deep learning book with code, math and discussions. Each section can be run as Jupyter Notebook. | 2022 | Free | [📖](https://d2l.ai/index.html) |
+| [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition) | Francois Chollet | Book | Practical book by the developer of Keras. Will quickly get you into deep learning, but doesn’t cover mathematical details. | 2021 | Free | [📖](https://www.manning.com/books/deep-learning-with-python-second-edition) [📙](https://github.com/fchollet/deep-learning-with-python-notebooks) | 
+| [Deep Learning Book](https://www.deeplearningbook.org/) | Ian Goodfellow | Book | Covers mathematical and conceptual background of deep learning, but doesn't cover more modern methods (e.g. transformers) | 2016 | Free | [📖](https://www.deeplearningbook.org/) [LECTURES](https://www.deeplearningbook.org/lecture_slides.html) |
+| [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 3Blue1Brown | Youtube playlist | Four short videos giving intuition on neural networks, gradient descent and back-propagation. | - | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
+
+
 
 
 ## Specialization: Computer vision
@@ -110,22 +122,23 @@ A repo containing useful links to courses and educational material for various s
 | [Advanced Natural Language Processing](https://people.cs.umass.edu/~miyyer/cs685/) | University of Massachusetts Amherst | Course | Covers deep learning methods for NLP with a focus on large language models. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) [SLIDES](https://people.cs.umass.edu/~miyyer/cs685/schedule.html) |
 | [CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) | Stanford | Course | Covers cutting-edge neural networks for NLP. Note videos only available for 2021 version of course. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) |
 | [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | HuggingFace | Course | This course will teach you about natural language processing (NLP) using libraries from the HuggingFace ecosystem. | - | Free | [🎥](https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ) | 
-| [Dive into Deep Learning](https://d2l.ai/index.html) | - | Interactive book | Interactive deep learning book with code, math and discussions. Each section can be run as Jupyter Notebook. | 2022 | Free | [📖](https://d2l.ai/index.html) |
+| [Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html) | UT Austin | Course | Covers a broad range of topics including NLP fundamentals, models and LLMs. | 2023 |Free | [🎥](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) |
+| [A code-first introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | fast.ai | Course | Covers traditional NLP topics (SVD, naive Bayes) through to more recent neural network approaches (RNNs, attention, transformer). | 2019 | Free | [🎥](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) [📙](https://github.com/fastai/course-nlp) |
  
 
-## Specialization: Reinforcement learning
+## Specialization: Reinforcement Learning
 
 | Title | Provider | Format |Description | Latest release | Cost | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Reinforcement Learning Lecture Series](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) | DeepMind / UCL | Lecture series | Covers the fundamentals of reinforcement learning and planning in sequential decision problems, before progressing to more advanced topics and modern deep RL algorithms. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | 
 
 
-## Specialization: Unsupervised deep learning
+## Specialization: Unsupervised Deep Learning
 
 
 
 
-## Specialization: ML deployment
+## Specialization: ML Deployment
 
 | Title | Provider | Format |Description | Latest release | Cost | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -139,9 +152,9 @@ A repo containing useful links to courses and educational material for various s
 
 | Title | Provider | Format |Description | Latest release | Cost | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
-| [CS330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/) | Stanford | Couurse | Covers self-supervised learning, meta-learning methods and curriculum learning. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
+| [CS330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/) | Stanford | Course | Covers self-supervised learning, meta-learning methods and curriculum learning. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
 | [Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) | Carnegie Mellon University | Course | Teaches the latest research addressing multumodel ML models for linguitsics, acoustic and visual data. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) |
-| [Transformers United](https://web.stanford.edu/class/cs25/) | Stanford | Course | Delve into how transformers work and how different types of transformers are applied in DL, RL, computer vision and many other fields. | 2023 | Free |  [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | 
+| [Transformers United](https://web.stanford.edu/class/cs25/) | Stanford | Course | Delve into how transformers work and how different types of transformers are applied in DL, RL, computer vision and many other fields. | 2023 | Free |  [🎥](https://www.youtube.com/playlist?list=PLVVTN-yNn8rvEwlY8ClxDUWeVPVfdifYj) | 
 
 
 
