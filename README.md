@@ -97,7 +97,7 @@ A repo containing useful links to courses and educational material for various s
 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera / DeepLearningAI | Course | 
 | [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) | MIT | Course | MIT's introductory program on deep learning methods with applications to computer vision, natural language processing, biology, and more. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) [💻](https://github.com/aamini/introtodeeplearning/) |
 | [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) | Andrej Karpathy | Youtube tutorials | Excellent tutorials building neural networks from scratch in Jupyter Notebooks. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) | 
-| [NYU Deep Learning](https://cds.nyu.edu/deep-learning/) | NYU | Course | Covers the latest techniques in deep learning and representation learning with applications to computer vision, natural language understanding, and speech recognition. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) [📙](https://github.com/Atcold/NYU-DLSP20/tree/master) |
+| [NYU Deep Learning](https://cds.nyu.edu/deep-learning/) | NYU | Course | Covers techniques in deep learning and representation learning with applications to computer vision, natural language understanding, and speech recognition. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) [📙](https://github.com/Atcold/NYU-DLSP20/tree/master) |
 | [Deep Learning Course](https://fleuret.org/dlc/) | University of Geneva | Course | Introduction to deep learning by Francois Fleuret with examples in PyTorch. | 2021 | Free | [WEB](https://fleuret.org/dlc/) |
 | [Dive into Deep Learning](https://d2l.ai/index.html) | - | Interactive book | Interactive deep learning book with code, math and discussions. Each section can be run as Jupyter Notebook. | 2022 | Free | [📖](https://d2l.ai/index.html) |
 | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition) | Francois Chollet | Book | Practical book by the developer of Keras. Will quickly get you into deep learning, but doesn’t cover mathematical details. | 2021 | Free | [📖](https://www.manning.com/books/deep-learning-with-python-second-edition) [📙](https://github.com/fchollet/deep-learning-with-python-notebooks) | 
@@ -120,7 +120,7 @@ A repo containing useful links to courses and educational material for various s
 | --- | --- | --- | --- | --- | --- | --- |
 | [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) | The Full Stack | Bootcamp | XXXXX | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
 | [Advanced Natural Language Processing](https://people.cs.umass.edu/~miyyer/cs685/) | University of Massachusetts Amherst | Course | Covers deep learning methods for NLP with a focus on large language models. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) [SLIDES](https://people.cs.umass.edu/~miyyer/cs685/schedule.html) |
-| [CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) | Stanford | Course | Covers cutting-edge neural networks for NLP. Note videos only available for 2021 version of course. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) |
+| [CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) | Stanford | Course | Covers cutting-edge neural networks for NLP. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=PSGIodTN3KE&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) |
 | [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | HuggingFace | Course | This course will teach you about natural language processing (NLP) using libraries from the HuggingFace ecosystem. | - | Free | [🎥](https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ) | 
 | [Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html) | UT Austin | Course | Covers a broad range of topics including NLP fundamentals, models and LLMs. | 2023 |Free | [🎥](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) |
 | [A code-first introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | fast.ai | Course | Covers traditional NLP topics (SVD, naive Bayes) through to more recent neural network approaches (RNNs, attention, transformer). | 2019 | Free | [🎥](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) [📙](https://github.com/fastai/course-nlp) |
@@ -130,12 +130,21 @@ A repo containing useful links to courses and educational material for various s
 
 | Title | Provider | Format |Description | Latest release | Cost | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Reinforcement Learning Lecture Series](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) | DeepMind / UCL | Lecture series | Covers the fundamentals of reinforcement learning and planning in sequential decision problems, before progressing to more advanced topics and modern deep RL algorithms. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | 
+| [Reinforcement Learning Lecture Series](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) | DeepMind / UCL | Lecture series | Covers the fundamentals of reinforcement learning and planning in sequential decision problems, before progressing to more advanced topics and modern deep RL algorithms. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) |
+| [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) | UC Berkeley | Course | CS285 course by Sergey Levine covering topics such as model-based RL, offline RL and inverse RL. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) |
+| [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | Richard Sutton and Andrew Barto | Book | XXX | 2018 | Free | [📖](http://incompleteideas.net/book/RLbook2020.pdf) |
 
 
-## Specialization: Unsupervised Deep Learning
 
+## Specialization: Generative Deep Learning
 
+| Title | Provider | Format |Description | Latest release | Cost | Resources |
+| --- | --- | --- | --- | --- | --- | --- |
+
+- Stanford course
+- Berkeley course
+- dl.ai
+- book
 
 
 ## Specialization: ML Deployment
@@ -146,6 +155,8 @@ A repo containing useful links to courses and educational material for various s
 | [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | DataTalksClub | Online course | Teaches practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=s0uaFZSzwfI&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) [💻](https://github.com/DataTalksClub/mlops-zoomcamp) |
 | [ML Systems Design](https://stanford-cs329s.github.io/) | Stanford | Course | This course (CS 329S) aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable. Videos not available. | 2022 | Free | [SYMBOL](https://stanford-cs329s.github.io/syllabus.html) [📖](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) |
 | [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Coursera / DeepLearningAI | Course | Four course specialization to learn how to productionize ML models. | 2022 | Free to audit | [🎥](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) |
+| [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | The Full Stack | Course | XXXX | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) |
+- Udemy course I took
 
 
 ## Specialization: Other advanced topics
