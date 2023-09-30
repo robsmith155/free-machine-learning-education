@@ -124,6 +124,7 @@ A repo containing useful links to courses and educational material for various s
 | [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | HuggingFace | Course | This course will teach you about natural language processing (NLP) using libraries from the HuggingFace ecosystem. | - | Free | [🎥](https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ) | 
 | [Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html) | UT Austin | Course | Covers a broad range of topics including NLP fundamentals, models and LLMs. | 2023 |Free | [🎥](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) |
 | [A code-first introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | fast.ai | Course | Covers traditional NLP topics (SVD, naive Bayes) through to more recent neural network approaches (RNNs, attention, transformer). | 2019 | Free | [🎥](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) [📙](https://github.com/fastai/course-nlp) |
+| [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | Hugging Face | Course | This course will teach you about natural language processing (NLP) using libraries from the Hugging Face ecosystem. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ) |
  
 
 ## Specialization: Reinforcement Learning
@@ -133,6 +134,7 @@ A repo containing useful links to courses and educational material for various s
 | [Reinforcement Learning Lecture Series](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) | DeepMind / UCL | Lecture series | Covers the fundamentals of reinforcement learning and planning in sequential decision problems, before progressing to more advanced topics and modern deep RL algorithms. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) |
 | [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) | UC Berkeley | Course | CS285 course by Sergey Levine covering topics such as model-based RL, offline RL and inverse RL. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) |
 | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | Richard Sutton and Andrew Barto | Book | XXX | 2018 | Free | [📖](http://incompleteideas.net/book/RLbook2020.pdf) |
+| [Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit0/introduction) | Hugging Face | Course | Learn Deep RL from beginner level to expert using widely used libraries and environments. | - | Free | |
 
 
 
