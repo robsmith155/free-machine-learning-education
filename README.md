@@ -142,11 +142,9 @@ A repo containing useful links to courses and educational material for various s
 
 | Title | Provider | Format |Description | Latest release | Cost | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | UC Berkeley | Course | Covers deep generative models and self-supervised learning. | 2020 | Free | [🎥](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) [NOTES](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
+| [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) | David Foster | Book | Covers the basics to cutting-edge architectures (VAEs, GANs, Transformers). Jupyter Notebooks examples freely available. | 2023 | $70 for book. Notebooks free. | [📙](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition)|
 
-- Stanford course
-- Berkeley course
-- dl.ai
-- book
 
 
 ## Specialization: ML Deployment
