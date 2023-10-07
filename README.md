@@ -110,7 +110,8 @@ A repo containing useful links to courses and educational material for various s
 | Title | Provider | Format |Description | Latest release | Cost | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
 | [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | Stanford | Course | Deep dive into deep learning models for visial recognition tasks such as image classification and localization. Note latest videos from 2017. | 2023 | Free | [📝](http://cs231n.stanford.edu/schedule.html) [🎥](https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
-
+| [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | University of Michigan | Course | This course is a deep dive into details of neural-network based deep learning methods for computer vision. Videos from 2020 version of course. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) [SLIDES](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html) |
+| [Deep Learning for Computer Vision: Fundamentals and Applications](https://dl4cv.github.io/DL4CV_Winter23/index.html) | Weizmann Institute of Science | Course | The course provides hands-on experience with deep learning for computer vision: implementing deep neural networks and their components from scratch, tackling real world tasks in computer vision using PyTorch. Videos from 2021 version of course. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) [SLIDES](https://dl4cv.github.io/DL4CV_Winter23/schedule.html) |
 
 ## Specialization: NLP
 
