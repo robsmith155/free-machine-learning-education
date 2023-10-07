@@ -29,8 +29,6 @@ A repo containing useful links to courses and educational material for various s
 | [Code Academy](https://www.codecademy.com/catalog/language/python) | CodeAcademy | Interactive course | Interactive coding tutorials for many programming languages, including Python. | - | Free for basic courses | [WEBPAGE](https://www.codecademy.com/catalog/language/python) |
 
 
-
-
 ## Foundation: Linear algebra
 
 | Title | Provider | Format |Description | Latest release | Cost | Resources |
@@ -40,12 +38,10 @@ A repo containing useful links to courses and educational material for various s
 |[Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/) | Stanford University | Course, Book | Covers the basics of vectors and matrices, solving linear equations, least-squares methods, and many applications. Two versions of the book, with one version based on Python code. | 2020 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) [📖](https://web.stanford.edu/~boyd/vmls/vmls.pdf) [📖](https://ses.library.usyd.edu.au/bitstream/handle/2123/21370/vmls-python-companion.pdf?sequence=3&isAllowed=y) [💻](https://github.com/vbartle/VMLS-Companions/tree/master)|
 |[Linear Algebra](https://joshua.smcvt.edu/linearalgebra) | Jim Hefferon | Book | Covers material expected for typical undergraduate course in linear algebra. | 2020 | Free |  [📖](https://joshua.smcvt.edu/linearalgebra/book.pdf) |
 | [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) | Jacob Ström, Kalle Åström, and Tomas Akenine-Möller | Interactive tutorials | Online tutorials with interactive figures to help learn linear algebra concepts. | 2020 | Free | |
-| [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown | Youtube tutorials | Great visualizations providing geometric understanding of the core concepts of linear algebra. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown | Youtube tutorials | Great visualizations providing geometric understanding of the core concepts of linear algebra. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | [Linear algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Khan Academy | Youtube playlist | Matrices, vectors, vector spaces, transformations. From very basics through to eigenvectors.  Covers all topics in a first year college linear algebra course. | 2014 | Free | [🎥](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) |
 | [Data driven science and engineering: Dimensionality reduction and transforms](http://databookuw.com/page-2/page2.html) | Steve Brunton, University of Washington | Youtube Playlist, Book chapter | Brilliant video lectures covering singular value decomposition (SVD) for dimensionality reduction. Chapter 1 from book. | 2019 | Free | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) [📖](http://databookuw.com/page-2/page2.html)
 [Mathematics for machine learning: Vector calculus](https://mml-book.github.io/book/mml-book.pdf#page=145) | M. Deisenroth, A. Faisal and C. Ong | Book chapter | Very good guidebook covering the mathematical foundations of modern ML. | 2020 | Free | [📖](https://mml-book.github.io/) |
-
-
 
 
 ## Foundation: Calculus
@@ -87,6 +83,7 @@ A repo containing useful links to courses and educational material for various s
 | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B0BHCFNY9Q?ref_=ast_author_mpb) |  Aurélien Géron | Book | Highly rated book introducing machine learning theory with practical examples using Scikit-Learn. Also has a section on deep learning in TensorFlow/Keras. |  2022 | $35 | - |
 
 
+
 ## Deep learning
 
 
@@ -103,6 +100,7 @@ A repo containing useful links to courses and educational material for various s
 | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition) | Francois Chollet | Book | Practical book by the developer of Keras. Will quickly get you into deep learning, but doesn’t cover mathematical details. | 2021 | Free | [📖](https://www.manning.com/books/deep-learning-with-python-second-edition) [📙](https://github.com/fchollet/deep-learning-with-python-notebooks) | 
 | [Deep Learning Book](https://www.deeplearningbook.org/) | Ian Goodfellow | Book | Covers mathematical and conceptual background of deep learning, but doesn't cover more modern methods (e.g. transformers) | 2016 | Free | [📖](https://www.deeplearningbook.org/) [LECTURES](https://www.deeplearningbook.org/lecture_slides.html) |
 | [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 3Blue1Brown | Youtube playlist | Four short videos giving intuition on neural networks, gradient descent and back-propagation. | - | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
+| [Understanding Deep Learning](https://udlbook.github.io/udlbook/) | Simon Prince | Book | Book that covers the ideas that underlie deep learning and many different architectures. | 2023 | Free | [📖](https://udlbook.github.io/udlbook/) [SLIDES](https://udlbook.github.io/udlbook/) [📙](https://github.com/udlbook/udlbook/tree/main/Notebooks) |
 
 
 
@@ -125,6 +123,7 @@ A repo containing useful links to courses and educational material for various s
 | [Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html) | UT Austin | Course | Covers a broad range of topics including NLP fundamentals, models and LLMs. | 2023 |Free | [🎥](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) |
 | [A code-first introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | fast.ai | Course | Covers traditional NLP topics (SVD, naive Bayes) through to more recent neural network approaches (RNNs, attention, transformer). | 2019 | Free | [🎥](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) [📙](https://github.com/fastai/course-nlp) |
 | [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | Hugging Face | Course | This course will teach you about natural language processing (NLP) using libraries from the Hugging Face ecosystem. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ) |
+| [Natural Language Understanding](http://web.stanford.edu/class/cs224u/) | Stanford | Course | CS224U taught by Professor Christopher Potts covers topics such as retrieval augmented in-context learning, advanced behavioral evolution and analysis methods.| 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) [📙](https://github.com/cgpotts/cs224u/) |
  
 
 ## Specialization: Reinforcement Learning
@@ -165,8 +164,10 @@ A repo containing useful links to courses and educational material for various s
 | --- | --- | --- | --- | --- | --- | --- |
 | [CS330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/) | Stanford | Course | Covers self-supervised learning, meta-learning methods and curriculum learning. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
 | [Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) | Carnegie Mellon University | Course | Teaches the latest research addressing multumodel ML models for linguitsics, acoustic and visual data. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) |
-| [Transformers United](https://web.stanford.edu/class/cs25/) | Stanford | Course | Delve into how transformers work and how different types of transformers are applied in DL, RL, computer vision and many other fields. | 2023 | Free |  [🎥](https://www.youtube.com/playlist?list=PLVVTN-yNn8rvEwlY8ClxDUWeVPVfdifYj) | 
-
+| [Transformers United](https://web.stanford.edu/class/cs25/) | Stanford | Course | Delve into how transformers work and how different types of transformers are applied in DL, RL, computer vision and many other fields. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLVVTN-yNn8rvEwlY8ClxDUWeVPVfdifYj) | 
+| [Tiny ML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) | MIT | Course | This course introduces efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=rCFvPEQTxKI&list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) [SLIDES](https://hanlab.mit.edu/courses/2023-fall-65940) |
+| [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | Stanford | Course | This course focuses on the computational, algorithmic, and modeling challenges specific to the analysis of massive graphs, used for modelling social and technological systems. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) [SLIDES](http://web.stanford.edu/class/cs224w/#:~:text=Albert%2DL%C3%A1szl%C3%B3%20Barab%C3%A1si-,Schedule,-Lecture%20slides%20will) [📙](http://web.stanford.edu/class/cs224w/#:~:text=Albert%2DL%C3%A1szl%C3%B3%20Barab%C3%A1si-,Schedule,-Lecture%20slides%20will) |
+| [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) | William Hamilton | Book | Introduction to graph representation learning, including methods for embedding graph data, graph neural networks, and deep generative models of graphs. | 2020 | Free | [📖](https://www.cs.mcgill.ca/~wlh/grl_book/) |
 
 
 ## Misc
