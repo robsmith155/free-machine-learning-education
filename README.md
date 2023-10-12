@@ -81,7 +81,8 @@ A repo containing useful links to courses and educational material for various s
 | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | Kevin Murphy | Book | Comprehensive books covering the field of ML from probabilistic perspective. | 2022 | Free | [📖](https://probml.github.io/pml-book/book1.html) |
 | [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) | Kevin Murphy | Book | Sequel to previous book that dives deeper into various ML topics. | 2022 | Free | [📖](https://probml.github.io/pml-book/book2.html) |
 | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B0BHCFNY9Q?ref_=ast_author_mpb) |  Aurélien Géron | Book | Highly rated book introducing machine learning theory with practical examples using Scikit-Learn. Also has a section on deep learning in TensorFlow/Keras. |  2022 | $35 | - |
-
+| [Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) | Cornell | Course | Covers all of the most important ML algorithms and how to apply them in practice. | 2020 | Free | [🎥](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) [📙](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml) |
+| [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT) | University of Tübingen | Course | Introduction to machine learning covering key concepts in regression, classification, optimization, regularization, clustering, and dimensionality reduction. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT) [SLIDES](https://dkobak.github.io/#:~:text=to%20Machine%20Learning-,Slides,-%3A%201%20%7C)
 
 
 ## Deep learning
@@ -171,4 +172,5 @@ A repo containing useful links to courses and educational material for various s
 | [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) | William Hamilton | Book | Introduction to graph representation learning, including methods for embedding graph data, graph neural networks, and deep generative models of graphs. | 2020 | Free | [📖](https://www.cs.mcgill.ca/~wlh/grl_book/) |
 
 
-## Misc
+
+
