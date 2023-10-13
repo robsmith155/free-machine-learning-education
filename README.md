@@ -17,7 +17,7 @@ A repo containing useful links to courses and educational material for various s
 
 # Resources
 
-**Legend:** 🎥 Videos, 📖 Book, 📙 Jupyter Notebooks, 📊 Slides, 📝 Notes
+**Legend:** 🎥 Videos, 📖 Book, 📙 Jupyter Notebooks, 📊 Slides, 📝 Notes, 🌐 Website/blog
 
 ## Foundation: Python and data science packages
 | Title | Provider | Format |Description | Latest release | Cost | Resources |
@@ -28,7 +28,7 @@ A repo containing useful links to courses and educational material for various s
 | [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html) | Jake Van der Plas | Book, Notebooks | Introduces essential Python libraries such as Numpy, Pandas, Matplotlib and Scikit-learn. Assumes some knowledge of coding/Python. | 2023 | Free | [📖](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)  [💻](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master) |
 | [Pythontutor](https://pythontutor.com/) | Pythontutor.com | Interactive website | Helps you learn Python (and other languages) by visualizing code execution. | - | Free | [WEBPAGE](https://pythontutor.com/) |
 | [CS50: Introduction to programming with Python](https://cs50.harvard.edu/python/2022/) | Harvard | Course | Excellent lectures by Dr. David Malan. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python. | 2023 | Free (pay to verify) | [🎥](https://www.youtube.com/watch?v=8mAITcNt710&t=0s) | 
-| [Code Academy](https://www.codecademy.com/catalog/language/python) | CodeAcademy | Interactive course | Interactive coding tutorials for many programming languages, including Python. | - | Free for basic courses | [WEBPAGE](https://www.codecademy.com/catalog/language/python) |
+| [Code Academy](https://www.codecademy.com/catalog/language/python) | CodeAcademy | Interactive course | Interactive coding tutorials for many programming languages, including Python. | - | Free for basic courses | [🌐](https://www.codecademy.com/catalog/language/python) |
 
 
 ## Foundation: Linear algebra
@@ -58,16 +58,19 @@ A repo containing useful links to courses and educational material for various s
 
 ## Foundation: Probability and statistics
 
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
+| Title | Provider | Level |Description | Latest release | Cost | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Think Stats: Probability and statistics for programmers](https://allendowney.github.io/ThinkStats2/) | Allen Downey | Book | Use Python skills to learn probability and statistics concepts. | - | Free | [📖](https://greenteapress.com/thinkstats2/thinkstats2.pdf) [💻](https://github.com/AllenDowney/ThinkStats2) [BLOG](https://www.allendowney.com/blog/)|
-|[Think Bayes: Bayesian statistics made simple](http://allendowney.github.io/ThinkBayes2/) | Allen Downey | Book | Introduction to Bayesian statistics using computational methods in Python. | - | Free | [📖](http://allendowney.github.io/ThinkBayes2/) [💻](https://github.com/AllenDowney/ThinkBayes2) [BLOG](https://www.allendowney.com/blog/)|
-| [Statistics 101](https://www.youtube.com/c/BrandonFoltz/playlists) | Brandon Foltz | Youtube tutorials | Introductory set of YouTube lectures for various topics in statistics.| - | Free | [🎥](https://www.youtube.com/c/BrandonFoltz/playlists) |
-| [Probability primer](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4) | Mathematicalmonk | Youtube playlist | Videos about math, at the graduate level or upper-level undergraduate. | - | Free | [🎥](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4) |
-| [StatQuest](https://www.youtube.com/@statquest/playlists) | Josh Starmer | YouTube | Useful YouTube channel with statistics and machine learning short videos | - | Free | [🎥](https://www.youtube.com/@statquest/playlists) | 
-| [Seeing Theory](https://seeing-theory.brown.edu/) | Daniel Kunin | Interactive book | Visual introduction to probability and statistics. | - | Free | [📖](https://seeing-theory.brown.edu/) |
-| [Introduction to probability - The science of uncertainty](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data) | MIT | Course | MIT course available on EdX. An introduction to probabilistic models, including random processes and the basic elements of statistical inference. | 2023 | Free to audit |  |
-
+**BOOKS** | | | | | 
+| [Think Stats: Probability and statistics for programmers](https://allendowney.github.io/ThinkStats2/) | Allen Downey | 🟢 | Use Python skills to learn probability and statistics concepts. |  | Free | [📖](https://greenteapress.com/thinkstats2/thinkstats2.pdf) [📙](https://github.com/AllenDowney/ThinkStats2/notebooks) [🌐](https://www.allendowney.com/blog/)|
+|[Think Bayes: Bayesian statistics made simple](http://allendowney.github.io/ThinkBayes2/) | Allen Downey | 🟢 | Introduction to Bayesian statistics using computational methods in Python. |  | Free | [📖](http://allendowney.github.io/ThinkBayes2/) [📙](https://github.com/AllenDowney/ThinkBayes2/notebooks) [🌐](https://www.allendowney.com/blog/)|
+**COURSES**
+| [Introduction to probability - The science of uncertainty](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data) | MIT | 🟡 | MIT course available on EdX. An introduction to probabilistic models, including random processes and the basic elements of statistical inference. | 2023 | Free to audit |  |
+**YOUTUBE PLAYLISTS**
+| [Statistics 101](https://www.youtube.com/c/BrandonFoltz/playlists) | Brandon Foltz | 🟢 | Introductory set of YouTube lectures for various topics in statistics.|  | Free | [🎥](https://www.youtube.com/c/BrandonFoltz/playlists) |
+| [StatQuest](https://www.youtube.com/@statquest/playlists) | Josh Starmer | 🟢 | Useful YouTube channel with statistics and machine learning short videos |  | Free | [🎥](https://www.youtube.com/@statquest/playlists) | 
+| [Probability Primer](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4) | Mathematicalmonk | 🟡 | Videos about math, at the graduate level or upper-level undergraduate. |  | Free | [🎥](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4) |
+**OTHER**
+| [Seeing Theory](https://seeing-theory.brown.edu/) | Daniel Kunin | 🟢 | Visual introduction to probability and statistics. |  | Free | [📖](https://seeing-theory.brown.edu/) |
 
 
 ## Machine learning
@@ -87,7 +90,7 @@ A repo containing useful links to courses and educational material for various s
 | [Probabilistic Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx) | University of Tübingen | 🔴 | Aims to add probabilistic functionality to the most important model classes of contemporary machine learning; in particular also deep neural networks. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx) [📊](https://github.com/philipphennig/Probabilistic_ML/tree/main/slides) |
 **YOUTUBE PLAYLISTS**
 | [StatQuest](https://www.youtube.com/@statquest/playlists) | Josh Starmer | 🟢 | Useful YouTube channel with statistics and machine learning short videos |  | Free | [🎥](https://www.youtube.com/@statquest/playlists) | 
-| [Machine learning - overview and applications](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA) | Mathematicalmonk | 🟢 | YouTube channel with playlists on probability, information theory and machine learning. |  | Free | [🎥](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA) |
+| [Machine learning - overview and applications](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA) | Mathematicalmonk | 🟡 | YouTube channel with playlists on probability, information theory and machine learning. |  | Free | [🎥](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA) |
 **OTHER**
 | [Machine Learning Mastery](https://machinelearningmastery.com/) | Jason Brownlee | 🟢 | Website containing useful articles, tutorials and ebooks for machine learning |  | Free (need to pay for ebooks) |  |
 
