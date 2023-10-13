@@ -48,13 +48,17 @@ A repo containing useful links to courses and educational material for various s
 
 ## Foundation: Calculus
 
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
+| Title | Provider | Level |Description | Latest release | Cost | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
-| [The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html) | Terence Parr & Jeremy Howard | Article | Article on explained.ai by Jeremy Howard explaining all the matrix calculus you need to know for training deep neural networks. | - | Free | - |
-| [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) | Khan Academy | Youtube playlist | Almost 200 short videos on calculus, starting from very basics. | 2014 | Free | [🎥](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
-| [Essense of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | Youtube | Series of short videos providing good intuition on calculus topis | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
-[Mathematics for machine learning](https://mml-book.github.io/book/mml-book.pdf) | M. Deisenroth, A. Faisal and C. Ong | Book | Very good guidebook covering the mathematical foundations of modern ML. Chapters 2-3 cover linear algebra topics. | 2020 | Free | [📖](https://mml-book.github.io/) |
-| [Calculus online textbook](https://ocw.mit.edu/courses/res-18-001-calculus-online-textbook-spring-2005/pages/textbook/) | MIT | Book | Complete textbook by Gilbert Strang that covers single variable and multivariable calculus in depth. Also see the [Highlights of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) short video series. | 2005 | Free | [📖](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) [🎥](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) |
+**BOOKS** | | | | | 
+[Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) | M. Deisenroth, A. Faisal and C. Ong | 🟡 | Very good guidebook covering the mathematical foundations of modern ML. Chapter 5 covers vector calculus. | 2020 | Free | [📖](https://mml-book.github.io/) |
+| [Calculus Online Textbook](https://ocw.mit.edu/courses/res-18-001-calculus-online-textbook-spring-2005/pages/textbook/) | MIT | 🟡 | Complete textbook by Gilbert Strang that covers single variable and multivariable calculus in depth. Also see the [Highlights of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) short video series. | 2005 | Free | [📖](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) [🎥](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) |
+**YOUTUBE PLAYLISTS**
+| [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) | Khan Academy | 🟢 | Almost 200 short videos on calculus, starting from very basics. | 2014 | Free | [🎥](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
+| [Essense of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | 🟢 | Series of short videos providing good intuition on calculus topis | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+**OTHER**
+| [The Matrix Calculus you Need for Deep Learning](https://explained.ai/matrix-calculus/index.html) | Terence Parr & Jeremy Howard | 🟢 | Article on explained.ai by Jeremy Howard explaining all the matrix calculus you need to know for training deep neural networks. |  | Free |  |
+
 
 ## Foundation: Probability and statistics
 
