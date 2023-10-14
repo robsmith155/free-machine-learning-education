@@ -1,5 +1,7 @@
 # ml-educational-resources
-A repo containing useful links to courses and educational material for various sectors related to machine and deep learning
+A repo containing useful links to free courses and educational material for various sectors related to machine and deep learning.
+
+This repo only includes resources that have at least some resources freely available. Those that have paid elements will be commented in the description.
 
 ## Table of Contents
 - [Foundation: Python and data science packages](#foundation-python-and-data-science-packages)
@@ -19,35 +21,36 @@ A repo containing useful links to courses and educational material for various s
 
 **Legend:** 🎥 Videos, 📖 Book, 📙 Jupyter Notebooks, 📊 Slides, 📝 Notes, 🌐 Website/blog
 
-## Foundation: Python and data science packages
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Real Python](https://realpython.com/) | Real Python | Online tutorials | Great website with Python tutorials,  articles and learning paths. A lot of articles are free, but you need to pay for many video courses. | - | Free, 25 GBP per month for paid content | [WEBPAGE/TUTORIALS](https://realpython.com/) |
-| [DataQuest](https://www.dataquest.io/) | Data Quest | Online coding tutorials | Hands-on, interactive coding based learning. Read then do interface (no videos). Learning paths inlcude Data Scientist and Data Engineer. | - |  From $24.50 per month | [WEBPAGE/TUTORIALS](https://www.dataquest.io/) |
-| [Data Camp](https://www.datacamp.com/) | DataCamp | Online courses | Similar to DataQuest but with video content. Various courses to help you learn Python for data science. | - | 20 GBP per month | [WEBPAGE](https://www.datacamp.com/) |
-| [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html) | Jake Van der Plas | Book, Notebooks | Introduces essential Python libraries such as Numpy, Pandas, Matplotlib and Scikit-learn. Assumes some knowledge of coding/Python. | 2023 | Free | [📖](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)  [💻](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master) |
-| [Pythontutor](https://pythontutor.com/) | Pythontutor.com | Interactive website | Helps you learn Python (and other languages) by visualizing code execution. | - | Free | [WEBPAGE](https://pythontutor.com/) |
-| [CS50: Introduction to programming with Python](https://cs50.harvard.edu/python/2022/) | Harvard | Course | Excellent lectures by Dr. David Malan. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python. | 2023 | Free (pay to verify) | [🎥](https://www.youtube.com/watch?v=8mAITcNt710&t=0s) | 
-| [Code Academy](https://www.codecademy.com/catalog/language/python) | CodeAcademy | Interactive course | Interactive coding tutorials for many programming languages, including Python. | - | Free for basic courses | [🌐](https://www.codecademy.com/catalog/language/python) |
+## Foundation: Python
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**BOOKS**
+| [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html) | Jake Van der Plas | 🟢 | Introduces essential Python libraries such as Numpy, Pandas, Matplotlib and Scikit-learn. Assumes some knowledge of coding/Python. | 2023 | [📖](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)  [📙](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master) |
+**COURSES**
+| [Code Academy](https://www.codecademy.com/catalog/language/python) | CodeAcademy | 🟢 | Interactive coding tutorials for many programming languages, including Python. Basic courses are free. | - | [🌐](https://www.codecademy.com/catalog/language/python) |
+| [CS50: Introduction to programming with Python](https://cs50.harvard.edu/python/2022/) | Harvard | 🟢 | Excellent lectures by Dr. David Malan. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python. Free to audit. | 2023 | [🎥](https://www.youtube.com/watch?v=8mAITcNt710&t=0s) | 
+**OTHER**
+| [Real Python](https://realpython.com/) | Real Python | 🟢 | Great website with Python tutorials, articles and learning paths. A lot of articles are free, but you need to pay for many video courses. | - | [🌐](https://realpython.com/) |
+| [Pythontutor](https://pythontutor.com/) | Pythontutor.com | 🟢 | Interactive website that helps you learn Python (and other languages) by visualizing code execution. | - | [🌐](https://pythontutor.com/) |
 
 
 ## Foundation: Linear algebra
 
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
-| --- | --- | --- | --- | --- | --- | --- |
+| Title | Provider | Format |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
 **BOOKS**
-[Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) | M. Deisenroth, A. Faisal and C. Ong | 🟡 | Very good guidebook covering the mathematical foundations of modern ML. Chapter 2 covers linear algebra. | 2020 | Free | [📖](https://mml-book.github.io/) |
-|[Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/) | Stanford University | Course, Book | Covers the basics of vectors and matrices, solving linear equations, least-squares methods, and many applications. Two versions of the book, with one version based on Python code. | 2020 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) [📖](https://web.stanford.edu/~boyd/vmls/vmls.pdf) [📖](https://ses.library.usyd.edu.au/bitstream/handle/2123/21370/vmls-python-companion.pdf?sequence=3&isAllowed=y) [💻](https://github.com/vbartle/VMLS-Companions/tree/master)|
-|[Linear Algebra](https://joshua.smcvt.edu/linearalgebra) | Jim Hefferon | Book | Covers material expected for typical undergraduate course in linear algebra. | 2020 | Free |  [📖](https://joshua.smcvt.edu/linearalgebra/book.pdf) |
+[Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) | M. Deisenroth, A. Faisal and C. Ong | 🟡 | Very good guidebook covering the mathematical foundations of modern ML. Chapter 2 covers linear algebra. | 2020 | [📖](https://mml-book.github.io/) |
+|[Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/) | Stanford University | 🟡 | Covers the basics of vectors and matrices, solving linear equations, least-squares methods, and many applications. Two versions of the book, with one version based on Python code. | 2020 |  [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) [📖](https://web.stanford.edu/~boyd/vmls/vmls.pdf) [📖](https://ses.library.usyd.edu.au/bitstream/handle/2123/21370/vmls-python-companion.pdf?sequence=3&isAllowed=y) [📙](https://github.com/vbartle/VMLS-Companions/tree/master/VMLS%20Python%20Companion)|
+|[Linear Algebra](https://joshua.smcvt.edu/linearalgebra) | Jim Hefferon | 🟡 | Covers material expected for typical undergraduate course in linear algebra. | 2020 | [📖](https://joshua.smcvt.edu/linearalgebra/book.pdf) |
 **COURSES**
-| [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) | Fast.ai / University of San Francisco | 🟡 | Course by Rachel Thomas from Fast.ai. Taught in Python with Jupyter notebooks.  | 2017 | Free | [🎥](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) [💻](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)|
-| [Matrix methods in data analysis, signal processing and machine learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) | MIT | 🔴 | Gilbert Strang course that teaches linear algebra for machine learning. | ???? | Free | [🎥](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/) [📖](https://math.mit.edu/~gs/learningfromdata/) |
+| [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) | Fast.ai / University of San Francisco | 🟢 | Course by Rachel Thomas from Fast.ai. Taught in Python with Jupyter notebooks.  | 2017 | [🎥](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) [📙](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)|
+| [Matrix Methods in Data Analysis, Signal Processing and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) | MIT | 🟡 | Gilbert Strang course that teaches linear algebra for machine learning. | ???? | [🎥](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/) [📖](https://math.mit.edu/~gs/learningfromdata/) |
 **YOUTUBE PLAYLISTS**
-| [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown | 🟢 | Great visualizations providing geometric understanding of the core concepts of linear algebra. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
-| [Linear algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Khan Academy | 🟢 | Matrices, vectors, vector spaces, transformations. From very basics through to eigenvectors.  Covers all topics in a first year college linear algebra course. | 2014 | Free | [🎥](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) |
-| [Data driven science and engineering: Dimensionality reduction and transforms](http://databookuw.com/page-2/page2.html) | Steve Brunton, University of Washington | 🟡 | Brilliant video lectures covering singular value decomposition (SVD) for dimensionality reduction. Chapter 1 from book. | 2019 | Free | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) [📖](http://databookuw.com/page-2/page2.html)
+| [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown | 🟢 | Great visualizations providing geometric understanding of the core concepts of linear algebra. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| [Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Khan Academy | 🟢 | Matrices, vectors, vector spaces, transformations. From very basics through to eigenvectors.  Covers all topics in a first year college linear algebra course. | 2014 | [🎥](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) |
+| [Data Driven Science and Engineering: Dimensionality Reduction and Transforms](http://databookuw.com/page-2/page2.html) | Steve Brunton, University of Washington | 🟡 | Brilliant video lectures covering singular value decomposition (SVD) for dimensionality reduction. Chapter 1 from book. | 2019 | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) [📖](http://databookuw.com/page-2/page2.html)
 **OTHER**
-| [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) | Jacob Ström, Kalle Åström, and Tomas Akenine-Möller | 🟡 | Online tutorials with interactive figures to help learn linear algebra concepts. | 2020 | Free | |
+| [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) | Jacob Ström, Kalle Åström, and Tomas Akenine-Möller | 🟡 | Online tutorials with interactive figures to help learn linear algebra concepts. | 2020 | [🌐](http://immersivemath.com/ila/tableofcontents.html) |
 
 
 
