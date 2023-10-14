@@ -19,7 +19,7 @@ This repo only includes resources that have at least some resources freely avail
 
 # Resources
 
-**Legend:** 🎥 Videos, 📖 Book, 📙 Jupyter Notebooks, 📊 Slides, 📝 Notes, 🌐 Website/blog
+**Legend:** 🎥 Videos, 📖 Book, 📙 Jupyter Notebooks, 💻 General code, 📊 Slides, 📝 Notes, 🌐 Website/blog
 
 ## Foundation: Python
 | Title | Provider | Level |Description | Latest release | Resources |
@@ -129,74 +129,83 @@ This repo only includes resources that have at least some resources freely avail
 | [Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp21.github.io/) | UC Berkeley | 🟡 | CS182 taught by Sergey Levine. | 2021 | [🎥](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [📊](https://cs182sp21.github.io/#:~:text=class%20playlist%20link.-,WEEK%201%20OVERVIEW,-INTRODUCTION%20%26%20LOGISTICS) |
 | [Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/) | University of Tübingen | 🟡 | Introduces the practical and theoretical principles of deep neural networks with applications to various fields. | 2021 | [🎥](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) [📊](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/#:~:text=the%20lecture%20slides-,Schedule,-Date) |
 **YOUTUBE PLAYLISTS**
-| [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 3Blue1Brown | 🟢 | Four short videos giving intuition on neural networks, gradient descent and back-propagation. | - | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
+| [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 3Blue1Brown | 🟢 | Four short videos giving intuition on neural networks, gradient descent and back-propagation. |  | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
 | [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) | Andrej Karpathy | 🟡 | Excellent tutorials building neural networks from scratch in Jupyter Notebooks. | 2023 | [🎥](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) |
 
 
 ## Specialization: Computer vision
 
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
-| --- | --- | --- | --- | --- | --- | --- |
-| [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | Stanford | Course | Deep dive into deep learning models for visial recognition tasks such as image classification and localization. Note latest videos from 2017. | 2023 | Free | [📝](http://cs231n.stanford.edu/schedule.html) [🎥](https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
-| [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | University of Michigan | Course | This course is a deep dive into details of neural-network based deep learning methods for computer vision. Videos from 2020 version of course. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) [SLIDES](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html) |
-| [Deep Learning for Computer Vision: Fundamentals and Applications](https://dl4cv.github.io/DL4CV_Winter23/index.html) | Weizmann Institute of Science | Course | The course provides hands-on experience with deep learning for computer vision: implementing deep neural networks and their components from scratch, tackling real world tasks in computer vision using PyTorch. Videos from 2021 version of course. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) [SLIDES](https://dl4cv.github.io/DL4CV_Winter23/schedule.html) |
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**COURSES**
+| [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | Stanford | 🟡 | Deep dive into deep learning models for visial recognition tasks such as image classification and localization. Note latest videos from 2017. | 2023 | [🎥](https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [📝](http://cs231n.stanford.edu/schedule.html) |
+| [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | University of Michigan | 🟡 | This course is a deep dive into details of neural-network based deep learning methods for computer vision. Videos from 2020 version of course. | 2022 | [🎥](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) [📊](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html) |
+| [Deep Learning for Computer Vision: Fundamentals and Applications](https://dl4cv.github.io/DL4CV_Winter23/index.html) | Weizmann Institute of Science | 🟡 | The course provides hands-on experience with deep learning for computer vision: implementing deep neural networks and their components from scratch, tackling real world tasks in computer vision using PyTorch. Videos from 2021 version of course. | 2023 | [🎥](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) [📊](https://dl4cv.github.io/DL4CV_Winter23/schedule.html) |
 
 ## Specialization: NLP
 
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
-| --- | --- | --- | --- | --- | --- | --- |
-| [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) | The Full Stack | Bootcamp | XXXXX | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
-| [Advanced Natural Language Processing](https://people.cs.umass.edu/~miyyer/cs685/) | University of Massachusetts Amherst | Course | Covers deep learning methods for NLP with a focus on large language models. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) [SLIDES](https://people.cs.umass.edu/~miyyer/cs685/schedule.html) |
-| [CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) | Stanford | Course | Covers cutting-edge neural networks for NLP. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=PSGIodTN3KE&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) |
-| [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | HuggingFace | Course | This course will teach you about natural language processing (NLP) using libraries from the HuggingFace ecosystem. | - | Free | [🎥](https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ) | 
-| [Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html) | UT Austin | Course | Covers a broad range of topics including NLP fundamentals, models and LLMs. | 2023 |Free | [🎥](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) |
-| [A code-first introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | fast.ai | Course | Covers traditional NLP topics (SVD, naive Bayes) through to more recent neural network approaches (RNNs, attention, transformer). | 2019 | Free | [🎥](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) [📙](https://github.com/fastai/course-nlp) |
-| [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | Hugging Face | Course | This course will teach you about natural language processing (NLP) using libraries from the Hugging Face ecosystem. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ) |
-| [Natural Language Understanding](http://web.stanford.edu/class/cs224u/) | Stanford | Course | CS224U taught by Professor Christopher Potts covers topics such as retrieval augmented in-context learning, advanced behavioral evolution and analysis methods.| 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) [📙](https://github.com/cgpotts/cs224u/) |
- 
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**COURSES**
+| [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | HuggingFace | 🟢 | This course will teach you about natural language processing (NLP) using libraries from the HuggingFace ecosystem. |  | [🎥](https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ) | 
+| [A Code-first Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) | fast.ai | 🟢 | Covers traditional NLP topics (SVD, naive Bayes) through to more recent neural network approaches (RNNs, attention, transformer). | 2019 | [🎥](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) [📙](https://github.com/fastai/course-nlp) |
+| [CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) | Stanford | 🟡 | Covers cutting-edge neural networks for NLP. | 2023 | [🎥](https://www.youtube.com/watch?v=PSGIodTN3KE&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) |
+| [Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html) | UT Austin | 🟡 | Covers a broad range of topics including NLP fundamentals, models and LLMs. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) |
+| [Natural Language Understanding](http://web.stanford.edu/class/cs224u/) | Stanford | 🟡 | CS224U taught by Professor Christopher Potts covers topics such as retrieval augmented in-context learning, advanced behavioral evolution and analysis methods.| 2023 | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) [📙](https://github.com/cgpotts/cs224u/) |
+| [Advanced Natural Language Processing](https://people.cs.umass.edu/~miyyer/cs685/) | University of Massachusetts Amherst | 🔴 | Covers deep learning methods for NLP with a focus on large language models. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) [📊](https://people.cs.umass.edu/~miyyer/cs685/schedule.html) |
+**OTHER**
+| [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) | The Full Stack | 🟡 | Bootcamp ... XXXXX | 2023 |[🎥](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
 
 ## Specialization: Reinforcement Learning
 
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Reinforcement Learning Lecture Series](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) | DeepMind / UCL | Lecture series | Covers the fundamentals of reinforcement learning and planning in sequential decision problems, before progressing to more advanced topics and modern deep RL algorithms. | 2021 | Free | [🎥](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) |
-| [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) | UC Berkeley | Course | CS285 course by Sergey Levine covering topics such as model-based RL, offline RL and inverse RL. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) |
-| [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | Richard Sutton and Andrew Barto | Book | XXX | 2018 | Free | [📖](http://incompleteideas.net/book/RLbook2020.pdf) |
-| [Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit0/introduction) | Hugging Face | Course | Learn Deep RL from beginner level to expert using widely used libraries and environments. | - | Free | |
-
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**BOOKS**
+| [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | Richard Sutton and Andrew Barto | 🟡 | XXX | 2018 | [📖](http://incompleteideas.net/book/RLbook2020.pdf) |
+**COURSES**
+| [Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit0/introduction) | Hugging Face | 🟢 | Learn Deep RL from beginner level to expert using widely used libraries and environments. |  | [🌐](https://huggingface.co/learn/deep-rl-course/unit0/introduction)  |
+| [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) | UC Berkeley | 🟡 | CS285 course by Sergey Levine covering topics such as model-based RL, offline RL and inverse RL. | 2023 | [🎥](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) |
+**OTHER**
+| [Reinforcement Learning Lecture Series](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) | DeepMind / UCL | 🟡 | Lecture series covering the fundamentals of reinforcement learning and planning in sequential decision problems, before progressing to more advanced topics and modern deep RL algorithms. | 2021 | [🎥](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) |
 
 
 ## Specialization: Generative Deep Learning
 
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | UC Berkeley | Course | Covers deep generative models and self-supervised learning. | 2020 | Free | [🎥](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) [NOTES](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
-| [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) | David Foster | Book | Covers the basics to cutting-edge architectures (VAEs, GANs, Transformers). Jupyter Notebooks examples freely available. | 2023 | $70 for book. Notebooks free. | [📙](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition)|
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**BOOKS**
+| [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) | David Foster | 🟢 | Covers the basics to cutting-edge architectures (VAEs, GANs, Transformers). Around $70 for book. Jupyter Notebooks examples freely available. | 2023 |  | [📙](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition)|
+**COURSES**
+| [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | UC Berkeley | 🟡 | Covers deep generative models and self-supervised learning. | 2020 | [🎥](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) [📝](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
 
 
 
 ## Specialization: ML Deployment
 
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
-| --- | --- | --- | --- | --- | --- | --- |
-| [ML for Developers](https://madewithml.com/courses/mlops/) | Made With ML | Course | Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production ML applications. Course walks through fine-tuning LLM for production. | 2023 | Free | [WEBPAGE](https://madewithml.com/courses/mlops/) [💻](https://github.com/GokuMohandas/Made-With-ML) | 
-| [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | DataTalksClub | Online course | Teaches practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=s0uaFZSzwfI&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) [💻](https://github.com/DataTalksClub/mlops-zoomcamp) |
-| [ML Systems Design](https://stanford-cs329s.github.io/) | Stanford | Course | This course (CS 329S) aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable. Videos not available. | 2022 | Free | [SYMBOL](https://stanford-cs329s.github.io/syllabus.html) [📖](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) |
-| [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Coursera / DeepLearningAI | Course | Four course specialization to learn how to productionize ML models. | 2022 | Free to audit | [🎥](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) |
-| [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | The Full Stack | Course | XXXX | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) |
-- Udemy course I took
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**COURSES**
+| [ML for Developers](https://madewithml.com/courses/mlops/) | Made With ML | 🟢 | Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production ML applications. Course walks through fine-tuning LLM for production. | 2023 | [🌐](https://madewithml.com/courses/mlops/) [💻](https://github.com/GokuMohandas/Made-With-ML) | 
+| [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | DataTalksClub | 🟢 | Teaches practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring. | 2023 | [🎥](https://www.youtube.com/watch?v=s0uaFZSzwfI&) |
+| [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Coursera / DeepLearningAI | 🟡 | Four course specialization to learn how to productionize ML models. Free to audit. | 2022 | [🎥](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) |
+| [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | The Full Stack | 🟡 | XXXX | 2022 | [🎥](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) |list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) [💻](https://github.com/DataTalksClub/mlops-zoomcamp) |
+| [ML Systems Design](https://stanford-cs329s.github.io/) | Stanford | 🟡 | This course (CS 329S) aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable. Videos not available. | 2022 | [🌐](https://stanford-cs329s.github.io/syllabus.html) [📖](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) |
 
 
-## Specialization: Other advanced topics
 
-| Title | Provider | Format |Description | Latest release | Cost | Resources |
-| --- | --- | --- | --- | --- | --- | --- |
-| [CS330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/) | Stanford | Course | Covers self-supervised learning, meta-learning methods and curriculum learning. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
-| [Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) | Carnegie Mellon University | Course | Teaches the latest research addressing multumodel ML models for linguitsics, acoustic and visual data. | 2022 | Free | [🎥](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) |
-| [Transformers United](https://web.stanford.edu/class/cs25/) | Stanford | Course | Delve into how transformers work and how different types of transformers are applied in DL, RL, computer vision and many other fields. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLVVTN-yNn8rvEwlY8ClxDUWeVPVfdifYj) | 
-| [Tiny ML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) | MIT | Course | This course introduces efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. | 2023 | Free | [🎥](https://www.youtube.com/watch?v=rCFvPEQTxKI&list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) [SLIDES](https://hanlab.mit.edu/courses/2023-fall-65940) |
-| [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | Stanford | Course | This course focuses on the computational, algorithmic, and modeling challenges specific to the analysis of massive graphs, used for modelling social and technological systems. | 2023 | Free | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) [SLIDES](http://web.stanford.edu/class/cs224w/#:~:text=Albert%2DL%C3%A1szl%C3%B3%20Barab%C3%A1si-,Schedule,-Lecture%20slides%20will) [📙](http://web.stanford.edu/class/cs224w/#:~:text=Albert%2DL%C3%A1szl%C3%B3%20Barab%C3%A1si-,Schedule,-Lecture%20slides%20will) |
-| [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) | William Hamilton | Book | Introduction to graph representation learning, including methods for embedding graph data, graph neural networks, and deep generative models of graphs. | 2020 | Free | [📖](https://www.cs.mcgill.ca/~wlh/grl_book/) |
+## Specialization: Other Advanced Topics
+
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**BOOKS**
+| [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) | William Hamilton | 🟡 | Introduction to graph representation learning, including methods for embedding graph data, graph neural networks, and deep generative models of graphs. | 2020 | [📖](https://www.cs.mcgill.ca/~wlh/grl_book/) |
+**COURSES**
+| [CS330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/) | Stanford | 🟡 | Covers self-supervised learning, meta-learning methods and curriculum learning. | 2022 | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
+| [Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) | Carnegie Mellon University | 🟡 | Teaches the latest research addressing multumodel ML models for linguitsics, acoustic and visual data. | 2022 | [🎥](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) |
+| [Transformers United](https://web.stanford.edu/class/cs25/) | Stanford | 🟡 | Delve into how transformers work and how different types of transformers are applied in DL, RL, computer vision and many other fields. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLVVTN-yNn8rvEwlY8ClxDUWeVPVfdifYj) | 
+| [Tiny ML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) | MIT | 🟡 | This course introduces efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. | 2023 | [🎥](https://www.youtube.com/watch?v=rCFvPEQTxKI&list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) [📊](https://hanlab.mit.edu/courses/2023-fall-65940) |
+| [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | Stanford | 🟡 | This course focuses on the computational, algorithmic, and modeling challenges specific to the analysis of massive graphs, used for modelling social and technological systems. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) [📊](http://web.stanford.edu/class/cs224w/#:~:text=Albert%2DL%C3%A1szl%C3%B3%20Barab%C3%A1si-,Schedule,-Lecture%20slides%20will) [📙](http://web.stanford.edu/class/cs224w/#:~:text=Albert%2DL%C3%A1szl%C3%B3%20Barab%C3%A1si-,Schedule,-Lecture%20slides%20will) |
+
 
 
 
