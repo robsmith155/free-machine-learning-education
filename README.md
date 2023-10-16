@@ -4,7 +4,7 @@ A repo containing useful links to free courses and educational material for vari
 This repo only includes resources that have at least some resources freely available. Those that have paid elements will be commented in the description.
 
 ## Table of Contents
-- [Foundation: Python and data science packages](#foundation-python-and-data-science-packages)
+- [Essential: Python](#foundation-python-and-data-science-packages)
 - [Foundation: Linear Algebra](#foundation-linear-algebra)
 - [Foundation: Calculus](#foundation-calculus)
 - [Foundation: Probability and Statistics](#foundation-probability-and-statistics)
@@ -21,15 +21,15 @@ This repo only includes resources that have at least some resources freely avail
 
 **Legend:** 🎥 Videos, 📖 Book, 📙 Jupyter Notebooks, 💻 General code, 📊 Slides, 📝 Notes, 🌐 Website/blog
 
-## Foundation: Python
+## Essential: Python
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
 **BOOKS**
-| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html) | Jake Van der Plas | 🟢 | Introduces essential Python libraries such as Numpy, Pandas, Matplotlib and Scikit-learn. Assumes some knowledge of coding/Python. | 2023 | [📖](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)  [📙](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master) |
+| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) | Jake Van der Plas | 🟢 | Introduces essential Python libraries such as Numpy, Pandas, Matplotlib and Scikit-learn. Assumes some knowledge of coding/Python. | 2023 | [📖](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)  [📙](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master) |
 | [Think Python: How to Think like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Allen Downey | 🟢 | Introduction to Python programming for beginners. | 2016 | [📖](http://greenteapress.com/thinkpython2/thinkpython2.pdf) [💻](https://github.com/AllenDowney/ThinkPython2/tree/master/code) |
 **COURSES**
 | [Code Academy](https://www.codecademy.com/catalog/language/python) | CodeAcademy | 🟢 | Interactive coding tutorials for many programming languages, including Python. Basic courses are free. |  | [🌐](https://www.codecademy.com/catalog/language/python) |
-| [CS50: Introduction to programming with Python](https://cs50.harvard.edu/python/2022/) | Harvard | 🟢 | Excellent lectures by Dr. David Malan. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python. Free to audit. | 2023 | [🎥](https://www.youtube.com/watch?v=8mAITcNt710&t=0s) |
+| [CS50: Introduction to programming with Python](https://cs50.harvard.edu/python/2022/) | Harvard | 🟢 | Excellent lectures by Dr. David Malan. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python. Free to audit. | 2023 | [🌐](https://cs50.harvard.edu/python/2022/) [🎥](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V) |
 | [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | FreeCodeCamp | 🟢 | Starts with video course teachning the basics of Python 3. Then put your Python skills to the test by completing scientific computing projects. | | [🌐](https://www.freecodecamp.org/learn/scientific-computing-with-python/) |
 | [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/InstructorNotes.html) | David Beazley | 🟢 | The goal of this course is to cover foundational aspects of Python programming with an emphasis on script writing, basic data manipulation, and program organization. | | [🌐](https://dabeaz-course.github.io/practical-python/Notes/InstructorNotes.html) [💻](https://github.com/dabeaz-course/practical-python/tree/master) |
 | [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery) | David Beazley | 🟡 | Exercise-driven course for Python programmers who want to move beyond short scripts to writing more sophisticated programs. Topics focus on programming techniques that get used in popular libraries and frameworks.  |  | [📊](https://github.com/dabeaz-course/python-mastery/blob/main/PythonMastery.pdf) [💻](https://github.com/dabeaz-course/python-mastery/tree/main) |
@@ -37,13 +37,14 @@ This repo only includes resources that have at least some resources freely avail
 | [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Microsoft | 🟢 | Collection of short videos to get started with Python | | [🎥](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) |
 **OTHER**
 | [Real Python](https://realpython.com/) | Real Python | 🟢 | Great website with Python tutorials, articles and learning paths. A lot of articles are free, but you need to pay for many video courses. |  | [🌐](https://realpython.com/) |
+| [Learn Python](https://www.learnpython.org/) | learnpython.org | 🟢 | Learn the basics of Python through interactive tutorials. | | [🌐](https://www.learnpython.org/) |
 | [Pythontutor](https://pythontutor.com/) | Pythontutor.com | 🟢 | Interactive website that helps you learn Python (and other languages) by visualizing code execution. |  | [🌐](https://pythontutor.com/) |
 | [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html) | Ryan Soklaski | 🟢 | One-stop resource for learning the essentials of Python from scratch. | 2022 | [🌐](https://www.pythonlikeyoumeanit.com/index.html) |
 | [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html) | Sebastian Rashka | 🟢 | Quick tour of the NumPy library for working with multi-dimensional arrays in Python | 2020 | [🌐](https://sebastianraschka.com/blog/2020/numpy-intro.html) [🎥](https://www.youtube.com/watch?v=I8vRP4GVs_E) [📙](https://deepnote.com/workspace/first-deepnote-workspace-d01f-7dbd-c51f14e5-4955-4082-a869-c68ae59ce322/project/numpy-intro-blogarticle-2020-7441b635-6858-40c6-8188-343c03f118a1/notebook/scipython__blog-a90c3b73e297401490943f671b53457f?) [📙](https://github.com/rasbt/numpy-intro-blogarticle-2020) |
 
 ## Foundation: General Maths for ML
 
-| Title | Provider | Format |Description | Latest release | Resources |
+| Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
 **BOOKS**
 [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) | M. Deisenroth, A. Faisal and C. Ong | 🟡 | Very good guidebook covering the mathematical foundations of modern ML. | 2020 | [📖](https://mml-book.github.io/) |
@@ -52,9 +53,9 @@ This repo only includes resources that have at least some resources freely avail
 | [Maths for Deep Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/math-for-deep-learning/) | University of Tübingen | 🟡 | Series of micro-lectures to recap math pre-requisits for deep learning. Covers linear algebra and probability theory. | 2021 | [🎥](https://www.youtube.com/watch?v=gq0m_2Glz0g&list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&t=1s) [📊](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/math-for-deep-learning/#:~:text=Lecture%20Videos%20(Slides)) |
 
 
-## Foundation: Linear algebra
+## Foundation: Linear Algebra
 
-| Title | Provider | Format |Description | Latest release | Resources |
+| Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
 **BOOKS**
 [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) | M. Deisenroth, A. Faisal and C. Ong | 🟡 | Very good guidebook covering the mathematical foundations of modern ML. Chapter 2 covers linear algebra. | 2020 | [📖](https://mml-book.github.io/) |
@@ -66,7 +67,7 @@ This repo only includes resources that have at least some resources freely avail
 **YOUTUBE PLAYLISTS**
 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown | 🟢 | Great visualizations providing geometric understanding of the core concepts of linear algebra. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | [Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Khan Academy | 🟢 | Matrices, vectors, vector spaces, transformations. From very basics through to eigenvectors.  Covers all topics in a first year college linear algebra course. | 2014 | [🎥](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) |
-| [Data Driven Science and Engineering: Dimensionality Reduction and Transforms](http://databookuw.com/page-2/page2.html) | Steve Brunton, University of Washington | 🟡 | Brilliant video lectures covering singular value decomposition (SVD) for dimensionality reduction. Chapter 1 from book. | 2019 | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) [📖](http://databookuw.com/page-2/page2.html)
+| [Data Driven Science and Engineering: Dimensionality Reduction and Transforms](http://databookuw.com/page-2/page2.html) | Steve Brunton, University of Washington | 🟡 | Brilliant video lectures covering singular value decomposition (SVD) for dimensionality reduction. Chapter 1 from book. | 2019 | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) [📖](http://databookuw.com/page-2/page2.html) [📖](http://databookuw.com/databook.pdf) |
 **OTHER**
 | [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) | Jacob Ström, Kalle Åström, and Tomas Akenine-Möller | 🟡 | Online tutorials with interactive figures to help learn linear algebra concepts. | 2020 | [🌐](http://immersivemath.com/ila/tableofcontents.html) |
 
@@ -82,6 +83,7 @@ This repo only includes resources that have at least some resources freely avail
 **YOUTUBE PLAYLISTS**
 | [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) | Khan Academy | 🟢 | Almost 200 short videos on calculus, starting from very basics. | 2014 | [🎥](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
 | [Essense of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | 🟢 | Series of short videos providing good intuition on calculus topis | 2023 | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+| [Engineering Maths: Vector Calculus and Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | Steve Brunton | 🟡 | This playlist begins with basic vector calculus (divergence, gradient, curl) and quickly develops many of the most fundamental partial differential equations in physics. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) |
 **OTHER**
 | [The Matrix Calculus you Need for Deep Learning](https://explained.ai/matrix-calculus/index.html) | Terence Parr & Jeremy Howard | 🟢 | Article on explained.ai by Jeremy Howard explaining all the matrix calculus you need to know for training deep neural networks. |  | [🌐](https://explained.ai/matrix-calculus/index.html) |
 
@@ -103,7 +105,7 @@ This repo only includes resources that have at least some resources freely avail
 | [Seeing Theory](https://seeing-theory.brown.edu/) | Daniel Kunin | 🟢 | Visual introduction to probability and statistics. |  |  [🌐](https://seeing-theory.brown.edu/) |
 
 
-## Machine learning
+## Core: Machine Learning
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -111,7 +113,9 @@ This repo only includes resources that have at least some resources freely avail
 | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B0BHCFNY9Q?ref_=ast_author_mpb) |  Aurélien Géron | 🟢 | Highly rated book introducing machine learning theory with practical examples using Scikit-Learn. Book around $35, notebooks freely available. |  2022 | [📙](https://github.com/ageron/handson-ml3) | 
 | [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_5?crid=3UAK5GFMFQXIZ&keywords=python+machine+learning&qid=1697274677&sprefix=python+machine+learni%2Caps%2C477&sr=8-5) | Sebastian Raschka and Vahid Mirjalili | 🟢 | Comprehensive introduction to machine learning and the Python scientific computing stack. Book is around $50, but notebook examples are freely available. | 2021 | [📖](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/ref=sr_1_5?crid=3UAK5GFMFQXIZ&keywords=python+machine+learning&qid=1697274677&sprefix=python+machine+learni%2Caps%2C477&sr=8-5) [📙](https://github.com/rasbt/python-machine-learning-book-3rd-edition/tree/master) |
 | [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | Kevin Murphy | 🟡 | Comprehensive book covering the field of ML from probabilistic perspective. | 2022 | [📖](https://probml.github.io/pml-book/book1.html) |
-| [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) | Christoph Molnar | 🟡 | The focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks. |  | [📖](https://christophm.github.io/interpretable-ml-book/) |
+| [An Introduction to Statistical Learning: With Applications in Python](https://www.statlearning.com/) | G. James, D. Witten, T. Hastie, R. Tibshirani and J.Taylor | 🟡 | Provides a broad and less technical treatment of key topics in statistical learning. This book is appropriate for anyone who wishes to use contemporary tools for data analysis.  | 2023 | [📖](https://hastie.su.domains/ISLP/ISLP_website.pdf) [📊](https://www.statlearning.com/resources-python#:~:text=Files%20on%20GitHub-,Slides,-Data%20Sets) [📙](https://github.com/intro-stat-learning/ISLP_labs/tree/stable) |
+| [Computer Age Statistical Inference](https://hastie.su.domains/CASI_files/PDF/casi.pdf) | B. Efron and T. Hastie | 🟡 | XXXX | [📖](https://hastie.su.domains/CASI_files/PDF/casi.pdf) | 
+| [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) | T. Hastie, R. Tibshirani and J. Friedman | 🔴 | XXXX | [📖](https://hastie.su.domains/Papers/ESLII.pdf) |
 | [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) | Kevin Murphy | 🔴 | Sequel to previous book that dives deeper into various ML topics. | 2022 | [📖](https://probml.github.io/pml-book/book2.html) |
 | [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) | O. Martin, R. Kumar and J. Lao | 🔴 | Online book that teaches the application of Bayesian inference and exploratory analysis through Python examples | | [📖](https://probml.github.io/pml-book/book2.html) [💻](https://github.com/BayesianModelingandComputationInPython/BookCode_Edition1) |
 **COURSES**
@@ -129,7 +133,7 @@ This repo only includes resources that have at least some resources freely avail
 | [Machine Learning Mastery](https://machinelearningmastery.com/) | Jason Brownlee | 🟢 | Website containing useful articles, tutorials and ebooks for machine learning. Articles are free but need to pay for ebooks. |  | [🌐](https://machinelearningmastery.com/)  |
 | [Complete Machine Learning Package](https://nyandwi.com/machine_learning_complete/) | Jean de Dieu Nyandwi | 🟢 | Contains 35 end-to-end and interactive notebooks on most data science and machine learning topics. The package covers different techniques used for manipulating and analyzing datasets, classical machine learning algorithms, neural networks fundamentals, and deep learning for computer vision and natural language processing. | | [🌐](https://nyandwi.com/machine_learning_complete/) [📙](https://github.com/Nyandwi/machine_learning_complete) |
 
-## Deep Learning
+## Core: Deep Learning
 
 
 | Title | Provider | Level |Description | Latest release | Resources |
@@ -148,7 +152,7 @@ This repo only includes resources that have at least some resources freely avail
 | [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) | lightning.ai | 🟢 | Course by Sebastian Raschka using a modern open-source stack including PyTorch and PyTorch Lightning |  | [🎥](https://www.youtube.com/watch?v=6Py-tIEiXKw&list=PLaMu-SDt_RB4Ly0xb0qsQVpLwRQcjtOb-&pp=iAQB) [🌐](https://lightning.ai/courses/deep-learning-fundamentals/) |
 | [Introduction to Deep Learning and Neural Networks](https://theaisummer.com/introduction-to-deep-learning-course/) | AI Summer | 🟢 | An interactive text-based course to learn the principles behind deep learning architectures. Explore the theory and intuition behind the algorithms and build your models with Pytorch. | | [🌐](https://theaisummer.com/introduction-to-deep-learning-course/) [💻](https://github.com/The-AI-Summer/Introduction-to-Deep-Learning-and-Neural-Networks-Course/tree/main) |
 | [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) | lightning.ai | 🟢 | Course by Sebastian Raschka using a modern open-source stack including PyTorch and PyTorch Lightning |  | [🎥](https://www.youtube.com/watch?v=6Py-tIEiXKw&list=PLaMu-SDt_RB4Ly0xb0qsQVpLwRQcjtOb-&pp=iAQB) [🌐](https://lightning.ai/courses/deep-learning-fundamentals/) |
-| [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) | This course teaches the foundations of machine learning and deep learning with PyTorch | 🟢 |  Zero to Mastery | | [🌐](https://www.learnpytorch.io/) (https://www.youtube.com/watch?v=Z_ikDlimN6A&t=50417s) [📙](https://github.com/mrdbourke/pytorch-deep-learning) |
+| [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) | This course teaches the foundations of machine learning and deep learning with PyTorch | 🟢 |  Zero to Mastery | | [🌐](https://www.learnpytorch.io/) [🎥](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=50417s) [📙](https://github.com/mrdbourke/pytorch-deep-learning) |
 | [Practical Deep Learning for Coders 2022 - Part 2 : Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html)| Fast.ai | 🟡 | Continuation from [part 1](https://course.fast.ai/), delving deeper into topics and building Stable Diffusion from scratch. | 2022 | [🎥](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) [📙](https://github.com/fastai/course22p2) [📊](https://github.com/mrdbourke/pytorch-deep-learning/tree/main/slides) | 
 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera / DeepLearningAI | 🟡 | Famous course taught by Andrew Ng. Great intermediate overview of deep learning. Free to audit. $49 per month for full access. |  | XXXX |
 | [Introduction to Deep Learning and Generative Models](https://sebastianraschka.com/teaching/stat453-ss2021/) | UW-Madison | 🟡 | The focus of this course is on understanding deep neural networks by connecting it to related concepts in statistics, such as generalized linear models and maximum likelihood estimation. | 2021 | [🎥](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) |
@@ -258,9 +262,11 @@ This repo only includes resources that have at least some resources freely avail
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
 **BOOKS**
+| [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) | Christoph Molnar | 🟡 | The focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks. |  | [📖](https://christophm.github.io/interpretable-ml-book/) |
 | [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) | William Hamilton | 🟡 | Introduction to graph representation learning, including methods for embedding graph data, graph neural networks, and deep generative models of graphs. | 2020 | [📖](https://www.cs.mcgill.ca/~wlh/grl_book/) |
 **COURSES**
 | [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/) | MIT | 🟢 | This class covers algorithms to find and fix common issues in ML data and to construct better datasets, concentrating on data used in supervised learning tasks like classification. | 2023 | [🎥](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5) [📊](https://dcai.csail.mit.edu/lectures/) [📙](https://github.com/dcai-course/dcai-lab) |
+| [Explainable AI](https://sites.google.com/cs.washington.edu/csep590b) | University of Washington | 🟢 | Explores methods to help make complex machine learning models more transparent. Note video lectures are not available. | 2023 | [🌐](https://sites.google.com/cs.washington.edu/csep590b) [📊](https://sites.google.com/cs.washington.edu/csep590b#:~:text=Lecture%20schedule%20%26%20reading) |
 | [CS330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/) | Stanford | 🟡 | Covers self-supervised learning, meta-learning methods and curriculum learning. | 2022 | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
 | [Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) | Carnegie Mellon University | 🟡 | Teaches the latest research addressing multimodal ML models for linguistics, acoustic and visual data. | 2022 | [🎥](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) |
 | [Transformers United](https://web.stanford.edu/class/cs25/) | Stanford | 🟡 | Delve into how transformers work and how different types of transformers are applied in DL, RL, computer vision and many other fields. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLVVTN-yNn8rvEwlY8ClxDUWeVPVfdifYj) | 
@@ -272,6 +278,7 @@ This repo only includes resources that have at least some resources freely avail
 | [AI Research Experiences](https://www.cs197.seas.harvard.edu/) | Harvard | 🟡 | CS197: Dive into cutting-edge development tools like PyTorch, Lightning, and Hugging Face, and streamline your workflow with VSCode, Git, and Conda. | 2023 | [🌐](https://www.cs197.seas.harvard.edu/) [📖](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#heading=h.lxp3eg9lr5k9) [📝](https://www.cs197.seas.harvard.edu/#:~:text=Pranav%20Rajpurkar.-,Lecture%20Notes,-You%20Complete%20My) |
 **YOUTUBE PLAYLISTS**
 | [Foundation Models](https://www.youtube.com/playlist?list=PL9t0xVFP90GD8hox0KipBkJcLX_C3ja67) | Samuel Albanie | 🟡 | A playlist of videos describing foundation models: GPT-3, DINO, Flamingo, CLIP, Codex, BLOOMZ and Flan-PaLM.  The playlist also contains an introductory overview based on the Stanford report on Foundation Models. | 2022 | [🎥](https://www.youtube.com/playlist?list=PL9t0xVFP90GD8hox0KipBkJcLX_C3ja67) |
+| [Physics Informed Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa) | Steve Brunton | 🟡 | This playlist involves improving machine learning by embedding partially known physics and also discovering new physics with machine learning.  | 2023 | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa) |
 
 
 
