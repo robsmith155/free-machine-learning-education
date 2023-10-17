@@ -8,8 +8,10 @@ This repo only includes resources that have at least some resources freely avail
 - [Foundation: Linear Algebra](#foundation-linear-algebra)
 - [Foundation: Calculus](#foundation-calculus)
 - [Foundation: Probability and Statistics](#foundation-probability-and-statistics)
-- [Machine Learning](#machine-learning)
-- [Deep Learning](#deep-learning)
+- [Foundation: General Maths for ML](#foundation-general-maths-for-ml)
+- [Foundation: Computer Science](#foundation-computer-science)
+- [Core: Machine Learning](#machine-learning)
+- [Core: Deep Learning](#deep-learning)
 - [Specialization: Computer Vision](#specialization-computer-vision)
 - [Specialization: NLP](#specialization-nlp)
 - [Specialization: Reinforcement Learning](#specialization-reinforcement-learning)
@@ -92,7 +94,7 @@ This repo only includes resources that have at least some resources freely avail
 | [The Matrix Calculus you Need for Deep Learning](https://explained.ai/matrix-calculus/index.html) | Terence Parr & Jeremy Howard | 🟢 | Article on explained.ai by Jeremy Howard explaining all the matrix calculus you need to know for training deep neural networks. |  | [🌐](https://explained.ai/matrix-calculus/index.html) |
 
 
-## Foundation: Probability and statistics
+## Foundation: Probability and Statistics
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -103,14 +105,25 @@ This repo only includes resources that have at least some resources freely avail
 | [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) | A. Johnson, M. Ott and M. Dogucu | 🟡 | XXXX | 2021 | [📖](https://www.bayesrulesbook.com/) |
 **COURSES**
 | [Introduction to probability - The science of uncertainty](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data) | MIT | 🟡 | MIT course available on EdX. An introduction to probabilistic models, including random processes and the basic elements of statistical inference. Free to audit. | 2023 | [🌐](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data) |
-| [Introduction to Statistics](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/syllabus/) | MIT | 🟡 | Offers an in-depth the theoretical foundations for statistical methods that are useful in many applications. | 2017 | [🌐](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/syllabus/) [🎥]https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0 [📊](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/lecture-slides/) |
+| [Introduction to Statistics](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/syllabus/) | MIT | 🟡 | Offers an in-depth the theoretical foundations for statistical methods that are useful in many applications. | 2017 | [🌐](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/syllabus/) [🎥](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) [📊](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/lecture-slides/) |
 **YOUTUBE PLAYLISTS**
 | [Statistics 101](https://www.youtube.com/c/BrandonFoltz/playlists) | Brandon Foltz | 🟢 | Introductory set of YouTube lectures for various topics in statistics.|  | [🎥](https://www.youtube.com/c/BrandonFoltz/playlists) |
 | [StatQuest](https://www.youtube.com/@statquest/playlists) | Josh Starmer | 🟢 | Useful YouTube channel with statistics and machine learning short videos |  |  [🎥](https://www.youtube.com/@statquest/playlists) | 
 | [Probability Primer](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4) | Mathematicalmonk | 🟡 | Videos about math, at the graduate level or upper-level undergraduate. |  | [🎥](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4) |
 **OTHER**
-| [Seeing Theory](https://seeing-theory.brown.edu/) | Daniel Kunin | 🟢 | Visual introduction to probability and statistics. |  |  [🌐](https://seeing-theory.brown.edu/) |
+| [Seeing Theory](https://seeing-theory.brown.edu/) | Daniel Kunin | 🟢 | Visual introduction to probability and statistics. |  | [🌐](https://seeing-theory.brown.edu/) | 
 
+
+## Foundation: Computer Science
+
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**COURSES**
+| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 🟢 | Teaches profiency with common computer science tools that are often omitted from CS courses, such as mastering the command line and version control. | 2020 | [🌐](https://missing.csail.mit.edu/) [🎥](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) [📝](https://missing.csail.mit.edu/2020/) |
+**YOUTUBE PLAYLISTS**
+| [fast.ai Live Coding and Tutorials](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM) | fast.ai | 🟢 | Over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more. | 2022 | [🎥](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM) |
+**OTHER**
+| [Calm Code](https://calmcode.io/) | calmcode.io | 🟢 | Short video tutorials for modern ideas and open source tools. Very useful. | | [🌐](https://calmcode.io/) |
 
 ## Core: Machine Learning
 
@@ -159,8 +172,7 @@ This repo only includes resources that have at least some resources freely avail
 | [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S23/index.html) | CMU | 🟢 | Starts off gradually with MLPs and progresses into more complicated concepts such as attention and sequence-to-sequence models. Examples use PyTorch. | 2022 | [🎥](https://www.youtube.com/watch?v=Q3qCfSiRmQY&list=PLp-0K3kfddPwgBSCbDtT6NaVOd-gIHVMW) [📊](https://deeplearning.cs.cmu.edu/S23/index.html#:~:text=Schedule%20of%20Lectures) |
 | [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) | lightning.ai | 🟢 | Course by Sebastian Raschka using a modern open-source stack including PyTorch and PyTorch Lightning |  | [🎥](https://www.youtube.com/watch?v=6Py-tIEiXKw&list=PLaMu-SDt_RB4Ly0xb0qsQVpLwRQcjtOb-&pp=iAQB) [🌐](https://lightning.ai/courses/deep-learning-fundamentals/) |
 | [Introduction to Deep Learning and Neural Networks](https://theaisummer.com/introduction-to-deep-learning-course/) | AI Summer | 🟢 | An interactive text-based course to learn the principles behind deep learning architectures. Explore the theory and intuition behind the algorithms and build your models with Pytorch. | | [🌐](https://theaisummer.com/introduction-to-deep-learning-course/) [💻](https://github.com/The-AI-Summer/Introduction-to-Deep-Learning-and-Neural-Networks-Course/tree/main) |
-| [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) | lightning.ai | 🟢 | Course by Sebastian Raschka using a modern open-source stack including PyTorch and PyTorch Lightning |  | [🎥](https://www.youtube.com/watch?v=6Py-tIEiXKw&list=PLaMu-SDt_RB4Ly0xb0qsQVpLwRQcjtOb-&pp=iAQB) [🌐](https://lightning.ai/courses/deep-learning-fundamentals/) |
-| [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) | This course teaches the foundations of machine learning and deep learning with PyTorch | 🟢 |  Zero to Mastery | | [🌐](https://www.learnpytorch.io/) [🎥](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=50417s) [📙](https://github.com/mrdbourke/pytorch-deep-learning) |
+| [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) | Zero to Mastery | 🟢 | This course teaches the foundations of machine learning and deep learning with PyTorch. | | [🌐](https://www.learnpytorch.io/) [🎥](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=50417s) [📙](https://github.com/mrdbourke/pytorch-deep-learning) |
 | [Practical Deep Learning for Coders 2022 - Part 2 : Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html)| Fast.ai | 🟡 | Continuation from [part 1](https://course.fast.ai/), delving deeper into topics and building Stable Diffusion from scratch. | 2022 | [🎥](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) [📙](https://github.com/fastai/course22p2) [📊](https://github.com/mrdbourke/pytorch-deep-learning/tree/main/slides) | 
 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera / DeepLearningAI | 🟡 | Famous course taught by Andrew Ng. Great intermediate overview of deep learning. Free to audit. $49 per month for full access. |  | XXXX |
 | [Introduction to Deep Learning and Generative Models](https://sebastianraschka.com/teaching/stat453-ss2021/) | UW-Madison | 🟡 | The focus of this course is on understanding deep neural networks by connecting it to related concepts in statistics, such as generalized linear models and maximum likelihood estimation. | 2021 | [🎥](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) |
@@ -175,8 +187,8 @@ This repo only includes resources that have at least some resources freely avail
 | [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 3Blue1Brown | 🟢 | Four short videos giving intuition on neural networks, gradient descent and back-propagation. |  | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
 | [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) | Andrej Karpathy | 🟡 | Excellent tutorials building neural networks from scratch in Jupyter Notebooks. | 2023 | [🎥](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) |
 **OTHER**
-| [Annotated PyTorch Paper Implementations](https://nn.labml.ai/index.html) | labml.ai | 🔴 | PyTorch implementations of neural networks and related algorithms. Documented explanations side-by-side with the code. | 2023 | [🌐](https://nn.labml.ai/index.html) |
 | [Deep Learning Do It Yourself](https://dataflowr.github.io/website/) | | 🟡 | Collection of resources to allow students to understand papers, blog posts and codes available online and to adapt them to their projects as soon as possible. Learn using PyTorch | 2023 | [🌐](https://dataflowr.github.io/website/) [📙](https://github.com/dataflowr/notebooks/tree/master) |
+| [Annotated PyTorch Paper Implementations](https://nn.labml.ai/index.html) | labml.ai | 🔴 | PyTorch implementations of neural networks and related algorithms. Documented explanations side-by-side with the code. | 2023 | [🌐](https://nn.labml.ai/index.html) |
 
 
 ## Specialization: Computer Vision
@@ -216,7 +228,8 @@ This repo only includes resources that have at least some resources freely avail
 | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) | Richard Sutton and Andrew Barto | 🟡 | XXX | 2018 | [📖](http://incompleteideas.net/book/RLbook2020.pdf) |
 **COURSES**
 | [Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit0/introduction) | Hugging Face | 🟢 | Learn Deep RL from beginner level to expert using widely used libraries and environments. |  | [🌐](https://huggingface.co/learn/deep-rl-course/unit0/introduction)  | 
-| [Deep Reinforcement Learning]() | AI Summer | 🟢 |  Provides an intuitive explanation of the ideas behind all the algorithms that revolutionalize Artificial Intelligence over the past years, without getting into much math. | | [🌐](https://theaisummer.com/deep_reinforcement_learning_course/) |
+| [Deep Reinforcement Learning](https://theaisummer.com/deep_reinforcement_learning_course/) | AI Summer | 🟢 |  Provides an intuitive explanation of the ideas behind all the algorithms that revolutionalize Artificial Intelligence over the past years, without getting into much math. | | [🌐](https://theaisummer.com/deep_reinforcement_learning_course/) |
+| [Reinforcement Learning](https://www.udacity.com/enrollment/ud600/1.0.1) | Udacity | 🟢 |  This section also includes important Reinforcement Learning approaches like Markov Decision Processes and Game Theory. Part of CS7641 in the Georgia Tech Online Masters Degree. | 2016 | [🌐](https://www.udacity.com/enrollment/ud600/1.0.1) [🎥](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp) |
 | [Introduction to Reinforcement Learning](https://wensun.github.io/CS4789.html) | Cornell | 🟡 | This lecture series will cover the basics of Markov Decision Processes, Optimal Control, Policy Gradient, Imitation Learning, and Exploration in Bandits. | 2021 | [🎥](https://www.youtube.com/playlist?list=PLQVNhPb8ajtCjWSKUvKU8cX5lueYP9s3X) [📊](https://wensun.github.io/CS4789.html#:~:text=Schedule%20(tentative)) |
 | [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) | UC Berkeley | 🟡 | CS285 course by Sergey Levine covering topics such as model-based RL, offline RL and inverse RL. | 2023 | [🎥](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) |
 | [Reinforcement Learning](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua) | Polytechnique Montreal | 🟡 | This course introduces Reinforcement Learning as a general framework to design autonomous decision-making systems, learning the core challenges in designing RL systems and how to approach them. | 2021 | [🎥](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua) |
