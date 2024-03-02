@@ -1,30 +1,51 @@
-# ml-educational-resources
-A repo containing useful links to free courses and educational material for various sectors related to machine and deep learning.
+# Free Machine Learning Education
 
-This repo only includes resources that have at least some resources freely available. Those that have paid elements will be commented in the description.
+This repo contains a collection of links to free courses and educational material related to machine learning. While there are many excellent paid courses out there, such as platforms like [Udacity](https://www.udacity.com/), [Coursera](https://www.coursera.org/) and [DataCamp](https://www.datacamp.com/), the aim of this repository is to demonstrate that you can learn everything you need to know about machine learning for free. It might require more discipline, but it's entirely possible! 
+
+The resources are organized into four levels: Essential, Foundation, Core, and Specialization. This structure allows you to navigate the learning materials based on your current knowledge level and specific learning goals. 
+
+The approach to learning is entirely up to you. Many learners find a top-down approach effective, as advocated by [Jeremy Howard in the fast.ai courses](https://www.youtube.com/watch?v=8SF_h3xF3cE&t=940s). This method starts with the big picture, applying machine learning models first, and then gradually delving into the details once you understand the concept and why it is important. However, one essential prerequisite is Python. Without a solid understanding of Python, you'll find it challenging to make significant progress in machine learning. So, if you're new to Python, start there.
+
+The Foundation level courses cover mathematical and computer science topics that underpin many machine learning algorithms. While it's beneficial to have some background knowledge in these areas, you don't necessarily need to start by diving deep into these foundations.
+
+It's often more effective to start learning about machine learning, how to work with data, and how models work. Over time, you can supplement this practical knowledge by delving deeper into the foundational concepts.
+
+Once you have a good understanding of machine learning and deep learning, you can move onto more specialized courses, such as the deployment of machine learning models.
 
 ## Table of Contents
 - [Essential: Python](#essential-python)
+- [Foundation: Calculus](#foundation-calculus)
+- [Foundation: Computer Science](#foundation-computer-science)
 - [Foundation: General Maths for ML](#foundation-general-maths-for-ml)
 - [Foundation: Linear Algebra](#foundation-linear-algebra)
-- [Foundation: Calculus](#foundation-calculus)
 - [Foundation: Probability and Statistics](#foundation-probability-and-statistics)
-- [Foundation: Computer Science](#foundation-computer-science)
 - [Core: Machine Learning](#core-machine-learning)
 - [Core: Deep Learning](#core-deep-learning)
 - [Specialization: Computer Vision](#specialization-computer-vision)
-- [Specialization: NLP](#specialization-nlp)
-- [Specialization: Reinforcement Learning](#specialization-reinforcement-learning)
-- [Specialization: Unsupervised Deep Learning](#specialization-unsupervised-deep-learning)
+- [Specialization: Generative Deep Learning](#specialization-generative-deep-learning)
 - [Specialization: ML Deployment](#specialization-ml-deployment)
+- [Specialization: Natural Language Processing](#specialization-natural-language-processing)
+- [Specialization: Reinforcement Learning](#specialization-reinforcement-learning)
 - [Other: Applied ML/DL](#other-applied-mldl)
 - [Other: Misc Advanced Topics](#other-misc-advanced-topics)
 
 # Resources
+**Level key:** 🟢 Beginner, 🟡 Intermediate, 🔴 Advanced (These are relative levels but take with a pinch of salt)
 
-**Legend:** 🎥 Videos, 📖 Book, 📙 Jupyter Notebooks, 💻 General code, 📊 Slides, 📝 Notes, 🌐 Website
+**Resources legend:** 🎥 Videos, 📖 Book, 📙 Jupyter Notebooks, 💻 General code, 📊 Slides, 📝 Notes, 🌐 Website
 
 ## Essential: Python
+Python is a critical language for anyone interested in machine learning. Its simplicity and readability make it an excellent choice for beginners, while its powerful libraries like NumPy, Pandas, and Scikit-learn make data manipulation, analysis, and machine learning accessible and straightforward. 
+
+Example learning outcomes from studying Python for machine learning:
+
+- Understand the Python programming language, its syntax, and semantics.
+- Be proficient in using Python's data structures like lists, tuples, dictionaries, and sets.
+- Be able to manipulate and analyze data using Python libraries such as NumPy and Pandas.
+- Understand how to visualize data using libraries like Matplotlib and Seaborn.
+- Be able to perform feature engineering and feature selection in Python.
+- Learn to implement machine learning algorithms using Scikit-learn.
+
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
 **BOOKS**
@@ -42,6 +63,7 @@ This repo only includes resources that have at least some resources freely avail
 **YOUTUBE PLAYLISTS**
 | [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Microsoft | 🟢 | Collection of short videos to get started with Python. | 2020 | [🎥](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) |
 | [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) | Corey Schafer | 🟢 | An in-depth look at the Python programming language. Learn about Python development, tips and tricks, walkthroughs, and best practices. | 2023 | [🎥](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) |
+| [Python Tutorials](https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) | freecodecamp.org | 🟢 |List of open courses for varying levels of Python education. | 2022 | [🎥](https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) |
 **OTHER**
 | [Learn Python](https://www.learnpython.org/) | learnpython.org | 🟢 | Set of interactive tutorials to learn the basics of Python.  | | [🌐](https://www.learnpython.org/) |
 | [Pythontutor](https://pythontutor.com/) | Pythontutor.com | 🟢 | Interactive website that helps you learn Python (and other languages) by visualizing code execution. |  | [🌐](https://pythontutor.com/) |
@@ -50,7 +72,55 @@ This repo only includes resources that have at least some resources freely avail
 | [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html) | Sebastian Rashka | 🟢 | Quick tour of the NumPy library for working with multi-dimensional arrays in Python. Video lessons with Notebooks. | 2020 | [🌐](https://sebastianraschka.com/blog/2020/numpy-intro.html) [🎥](https://www.youtube.com/watch?v=I8vRP4GVs_E) [📙](https://deepnote.com/workspace/first-deepnote-workspace-d01f-7dbd-c51f14e5-4955-4082-a869-c68ae59ce322/project/numpy-intro-blogarticle-2020-7441b635-6858-40c6-8188-343c03f118a1/notebook/scipython__blog-a90c3b73e297401490943f671b53457f?) [📙](https://github.com/rasbt/numpy-intro-blogarticle-2020) |
 | [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) | Kenneth Reitz and Tanya Schlusser | 🟡 | Best practise guide for both novice and expert Python developers covering installation, configuration, and usage of Python on a daily basis. |  | [🌐](https://docs.python-guide.org/) |
 
+
+## Foundation: Calculus
+Calculus, particularly matrix calculus, is a fundamental branch of mathematics that plays a vital role in machine learning, especially in the optimization of machine learning models. The article [Matrix Calculus for Deep Learning](https://explained.ai/matrix-calculus/index.html) provides a comprehensive overview of what is required for deep learning practitioners. Here are some example learning outcomes for studying calculus in the context of machine learning:
+
+- Understand the concept of a function: Functions are used to represent mathematical relationships between quantities, and are fundamental to machine learning algorithms.
+- Master the principles of differential calculus: This includes understanding concepts such as limits, continuity, derivatives, and the rules for differentiation. These are used in machine learning for optimization and understanding how changes in input affect the output.
+- Learn about integral calculus: Understanding concepts such as integrals and the fundamental theorem of calculus is important for areas of machine learning such as probabilistic models.
+- Understand multivariable calculus: Many machine learning algorithms involve functions of many variables, so understanding partial derivatives and multiple integrals is crucial.
+- Learn about matrix calculus: As explained in the article, matrix calculus extends the concepts of calculus to higher dimensions. It is used extensively in deep learning for backpropagation and other optimization algorithms.
+- Understand the concept of a gradient: Gradients are used in machine learning to update the parameters of models and minimize error functions.
+- Understand optimization: Techniques for finding the maxima and minima of functions are used extensively in machine learning for training models.
+
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**BOOKS** | | | | | 
+| [Calculus Online Textbook](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) | MIT | 🟡 | Complete textbook by Gilbert Strang that covers single variable and multivariable calculus in depth. Also see the [Highlights of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) short video series. | 2005 | [📖](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)  [🎥](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) |
+[Mathematics for Machine Learning](https://mml-book.github.io/) | M. Deisenroth, A. Faisal and C. Ong | 🟡 | Very good guidebook covering the mathematical foundations of modern ML. Chapter 5 covers vector calculus. | 2020 | [📖](https://mml-book.github.io/book/mml-book.pdf) |
+**COURSES**
+| [Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) | MIT | 🟢 | Introductory calculus course covering differentiation and integration of functions of one variable, with applications. | 2006 | [🌐](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) [🎥](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) [📝](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/pages/lecture-notes/) |
+| [Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) | MIT | 🟡 | This course covers vector and multi-variable calculus. | 2007 | [🎥](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) |
+| [Matrix Calculus for Machine Learning and Beyond](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/) | MIT | 🔴 |  Learn how to compute derivatives of important matrix factorizations and many other complicated-looking operations, and understand how differentiation formulas must be reimagined in large-scale computing. | 2023 | [🌐](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/) [🎥](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE) [📝](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/lecture-notes/) |
+**YOUTUBE PLAYLISTS**
+| [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) | Khan Academy | 🟢 | Almost 200 short videos on calculus, starting from very basics. | 2014 | [🎥](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
+| [Essense of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | 🟢 | Series of short videos providing good intuition on calculus topis | 2023 | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+| [Engineering Maths: Vector Calculus and Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | Steve Brunton | 🟡 | This playlist begins with basic vector calculus (divergence, gradient, curl) and quickly develops many of the most fundamental partial differential equations in physics. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) |
+**OTHER**
+| [The Matrix Calculus you Need for Deep Learning](https://explained.ai/matrix-calculus/index.html) | Terence Parr & Jeremy Howard | 🟢 | Article co-authored by Jeremy Howard (fast.ai) explaining all the matrix calculus you need to know for training deep neural networks. |  | [🌐](https://explained.ai/matrix-calculus/index.html) |
+
+
+## Foundation: Computer Science
+The field of machine learning is deeply rooted in computer science, which provides the tools and frameworks that allow us to implement and optimize machine learning algorithms efficiently. It covers a wide range of topics including algorithms and data structures, which are essential for writing efficient code; computer architecture, which can be important for understanding and optimizing computational performance; and software engineering principles, which are crucial for building robust, maintainable, and scalable systems.
+
+The level of computer science knowledge required can vary significantly depending on the role. For instance, roles such as Machine Learning Engineer or MLOps Engineer will require a deeper understanding of computer science principles as they involve designing, implementing, and maintaining machine learning systems. On the other hand, a Data Scientist might focus more on statistical analysis and data interpretation, and thus might not need as extensive a computer science background.
+
+While this repository provides a few links to general material that may be useful in developing code, particularly in Python, there are other resources that provide a more comprehensive study of computer science. One such resource is the Open Source Society University's [Computer Science curriculum](https://github.com/ossu/computer-science), which provides a great list of resources to study computer science in detail. Regardless of your role, having a solid foundation in computer science will undoubtedly be beneficial in your machine learning journey.
+
+
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**COURSES**
+| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 🟢 | Teaches profiency with common computer science tools that are often omitted from CS courses, such as mastering the command line and version control. | 2020 | [🌐](https://missing.csail.mit.edu/) [🎥](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) [📝](https://missing.csail.mit.edu/2020/) |
+**YOUTUBE PLAYLISTS**
+| [fast.ai Live Coding and Tutorials](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM) | fast.ai | 🟢 | Over 20 hours of tutorials and live coding showing how to do many tasks that are required when working on machine learning projects. This includes installing Python the right way, writing shell scripts, using Git and GitHub, and much more. | 2022 | [🎥](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM) |
+**OTHER**
+| [Calm Code](https://calmcode.io/) | calmcode.io | 🟢 | Short video tutorials for modern ideas and open source Python tools. Very useful. | | [🌐](https://calmcode.io/) |
+
+
 ## Foundation: General Maths for ML
+This section provides general resources covering the mathematical foundations essential for machine learning. These resources include books, courses, and other materials that cover topics such as calculus, linear algebra, statistics, and probability.
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -65,6 +135,16 @@ This repo only includes resources that have at least some resources freely avail
 
 
 ## Foundation: Linear Algebra
+Linear Algebra is a fundamental area of mathematics that is important for understanding the underlying structure of machine learning algorithms. Here are some key learning outcomes for studying linear algebra in the context of machine learning:
+
+- Understand the concept of vectors and matrices: These are the basic building blocks of linear algebra and are used extensively in machine learning.
+- Master operations with vectors and matrices: This includes addition, subtraction, multiplication, division, and finding the determinant.
+- Learn about vector spaces: Understanding the properties of vector spaces and subspaces is crucial for many machine learning algorithms.
+- Understand eigenvalues and eigenvectors: These concepts are used in many machine learning algorithms including Principal Component Analysis (PCA).
+- Learn about matrix factorizations: Techniques such as Singular Value Decomposition (SVD) and LU decomposition are used in machine learning for solving systems of linear equations, among other things.
+- Understand linear transformations: These are functions between vector spaces that preserve the operations of addition and scalar multiplication.
+- Learn about orthogonality: The concept of orthogonality is used in machine learning in the context of minimizing error functions.
+
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -84,27 +164,16 @@ This repo only includes resources that have at least some resources freely avail
 | [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) | Jacob Ström, Kalle Åström, and Tomas Akenine-Möller | 🟡 | Online tutorials with interactive figures to help learn linear algebra concepts. | 2020 | [🌐](http://immersivemath.com/ila/tableofcontents.html) |
 
 
-
-## Foundation: Calculus
-
-| Title | Provider | Level |Description | Latest release | Resources |
-| --- | --- | --- | --- | --- | --- |
-**BOOKS** | | | | | 
-| [Calculus Online Textbook](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) | MIT | 🟡 | Complete textbook by Gilbert Strang that covers single variable and multivariable calculus in depth. Also see the [Highlights of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) short video series. | 2005 | [📖](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)  [🎥](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) |
-[Mathematics for Machine Learning](https://mml-book.github.io/) | M. Deisenroth, A. Faisal and C. Ong | 🟡 | Very good guidebook covering the mathematical foundations of modern ML. Chapter 5 covers vector calculus. | 2020 | [📖](https://mml-book.github.io/book/mml-book.pdf) |
-**COURSES**
-| [Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) | MIT | 🟢 | Introductory calculus course covering differentiation and integration of functions of one variable, with applications. | 2006 | [🌐](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) [🎥](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) [📝](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/pages/lecture-notes/) |
-| [Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) | MIT | 🟡 | This course covers vector and multi-variable calculus. | 2007 | [🎥](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) |
-| [Matrix Calculus for Machine Learning and Beyond](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/) | MIT |🔴 |  Learn how to compute derivatives of important matrix factorizations and many other complicated-looking operations, and understand how differentiation formulas must be reimagined in large-scale computing. | 2023 | [🌐](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/) [🎥](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE) [📝](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/lecture-notes/) |
-**YOUTUBE PLAYLISTS**
-| [Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) | Khan Academy | 🟢 | Almost 200 short videos on calculus, starting from very basics. | 2014 | [🎥](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
-| [Essense of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | 🟢 | Series of short videos providing good intuition on calculus topis | 2023 | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
-| [Engineering Maths: Vector Calculus and Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | Steve Brunton | 🟡 | This playlist begins with basic vector calculus (divergence, gradient, curl) and quickly develops many of the most fundamental partial differential equations in physics. | 2023 | [🎥](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) |
-**OTHER**
-| [The Matrix Calculus you Need for Deep Learning](https://explained.ai/matrix-calculus/index.html) | Terence Parr & Jeremy Howard | 🟢 | Article co-authored by Jeremy Howard (fast.ai) explaining all the matrix calculus you need to know for training deep neural networks. |  | [🌐](https://explained.ai/matrix-calculus/index.html) |
-
-
 ## Foundation: Probability and Statistics
+Probability and statistics are key to understanding the theories behind machine learning algorithms and making informed decisions based on data. Here are some example key learning outcomes for studying probability and statistics in the context of machine learning:
+
+- Understand the basics of probability: This includes understanding concepts such as probability distributions, conditional probability, and Bayes' theorem. These are fundamental to many machine learning algorithms.
+- Master descriptive statistics: This includes measures of central tendency (mean, median, mode), measures of dispersion (variance, standard deviation), and understanding distributions (normal, binomial, etc.).
+- Learn about inferential statistics: This includes hypothesis testing, confidence intervals, and p-values. These concepts are used to make inferences from data and evaluate machine learning models.
+- Understand correlation and covariance: These measures are used to understand the relationship between variables, which is crucial in feature selection in machine learning.
+- Learn about regression analysis: Linear regression and logistic regression are fundamental machine learning algorithms.
+- Understand the concept of maximum likelihood estimation: This is a method used to estimate the parameters of a probability distribution or statistical model.
+- Learn about Bayesian Statistics: Bayesian methods can be utilized in machine learning to update probabilities as more data becomes available.
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -127,19 +196,16 @@ This repo only includes resources that have at least some resources freely avail
 | [Seeing Theory](https://seeing-theory.brown.edu/) | Daniel Kunin | 🟢 | Visual and interactive introduction to probability and statistics. |  | [🌐](https://seeing-theory.brown.edu/) | 
 
 
-## Foundation: Computer Science
--https://github.com/ossu/computer-science
-
-| Title | Provider | Level |Description | Latest release | Resources |
-| --- | --- | --- | --- | --- | --- |
-**COURSES**
-| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 🟢 | Teaches profiency with common computer science tools that are often omitted from CS courses, such as mastering the command line and version control. | 2020 | [🌐](https://missing.csail.mit.edu/) [🎥](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) [📝](https://missing.csail.mit.edu/2020/) |
-**YOUTUBE PLAYLISTS**
-| [fast.ai Live Coding and Tutorials](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM) | fast.ai | 🟢 | Over 20 hours of tutorials and live coding showing how to do many tasks that are required when working on machine learning projects. This includes installing Python the right way, writing shell scripts, using Git and GitHub, and much more. | 2022 | [🎥](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSLBPJ1GMx-sQWf6iNhb8mM) |
-**OTHER**
-| [Calm Code](https://calmcode.io/) | calmcode.io | 🟢 | Short video tutorials for modern ideas and open source Python tools. Very useful. | | [🌐](https://calmcode.io/) |
-
 ## Core: Machine Learning
+Machine Learning is a vast field with a variety of techniques and methodologies. Understanding the fundamentals, such as supervised and unsupervised learning, is crucial for anyone looking to work in this field. Here are some of the key learning outcomes for studying the fundamentals of machine learning:
+
+- Understand the difference between supervised and unsupervised learning: Supervised learning involves learning from labeled data, while unsupervised learning involves finding patterns in unlabeled data.
+- Learn about different types of supervised learning algorithms: This includes linear regression, logistic regression, decision trees, random forests, support vector machines, and neural networks.
+- Understand the concept of training and testing data: Learn how to split your data into training and testing sets to evaluate the performance of your machine learning model.
+- Learn about different types of unsupervised learning algorithms: This includes clustering algorithms like K-means, hierarchical clustering, and DBSCAN, and dimensionality reduction techniques like PCA.
+- Understand the concept of overfitting and underfitting: Learn how to recognize when a model is too complex (overfitting) or too simple (underfitting) and how to address these issues.
+- Learn about evaluation metrics: Understand how to evaluate the performance of your machine learning models using metrics like accuracy, precision, recall, F1 score for classification problems, and mean squared error, mean absolute error for regression problems.
+- Understand the basics of feature engineering and selection: Learn how to create new features and select the most relevant ones for your machine learning model.
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -159,7 +225,7 @@ This repo only includes resources that have at least some resources freely avail
 | [Machine Learning](https://www.udacity.com/enrollment/ud262/1.0.1) | Udacity / Georgia Tech | 🟢 | Learn how to apply supervised, unsupervised and reinforcement learning techniques for solving a range of data science problems. Based on CS7641 at Georgia Tech. |  | [🌐](https://www.udacity.com/enrollment/ud262/1.0.1) [🎥](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo) [🎥](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O) |
 | [Machine Learning Crash Course with Tensorflow APIs](https://developers.google.com/machine-learning/crash-course) | Google | 🟢 | Practical introduction to machine learning, featuring a series of lessons with video lectures, real-world case studies, and hands-on practice exercises. | | [🌐](https://developers.google.com/machine-learning/crash-course) |
 | [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | Coursera / DeepLearning.AI | 🟢 | Course by Andrew Ng giving broad introduction to machine learning, including supervised and unsupervised learning. Assignments in Python. Audit for free.| 2022 | [🎥](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) [📊](https://www.deeplearning.ai/courses/machine-learning-specialization/#course-slides) |
-| [Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) | Cornell | 🟡 | Covers all of the most important ML algorithms and how to apply them in practice. | 2020 | [🎥](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) [📙](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml) |
+| [Applied Machine Learning](https://kuleshov-group.github.io/aml-website/) | Cornell | 🟡 | Covers all of the most important ML algorithms and how to apply them in practice. | 2020 | [🌐](https://kuleshov-group.github.io/aml-website/) [🎥](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) [📙](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml) [📝](https://kuleshov-group.github.io/aml-book/intro.html) |
 | [CS229: Machine Learning](http://cs229.stanford.edu/) | Stanford | 🟡 | This course provides a broad introduction to machine learning and statistical pattern recognition. | 2022 | [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) | 
 | [Statistical Machine Learning](http://www.tml.cs.uni-tuebingen.de/teaching/2022_statistical_learning/index.php) | University of Tübingen | 🟡 | Lectures on algorithmic and theoretical aspects of machine learning. Videos from 2020 version of course. | 2022 | [🌐](http://www.tml.cs.uni-tuebingen.de/teaching/2022_statistical_learning/index.php) [🎥](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) [📊](http://www.tml.cs.uni-tuebingen.de/teaching/2022_statistical_learning/downloads_free/vorlesung_main.pdf) |
 | [Probabilistic Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx) | University of Tübingen | 🔴 | Aims to add probabilistic functionality to the most important model classes of contemporary machine learning; in particular deep neural networks. | 2023 | [🎥](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx) [📊](https://github.com/philipphennig/Probabilistic_ML/tree/main/slides) |
@@ -173,7 +239,16 @@ This repo only includes resources that have at least some resources freely avail
 | [MLU Explain](https://mlu-explain.github.io/) | Amazon | 🟢 | Visual explanations of core machine learning concepts such as the bias-variance tradeoff, decision trees and cross-validation. | | [🌐](https://mlu-explain.github.io/) |
 
 ## Core: Deep Learning
+Deep Learning is a subset of machine learning that focuses on algorithms inspired by the structure and function of the brain called artificial neural networks. Here are the key learning outcomes for studying the fundamentals of deep learning:
 
+- Understand the concept of artificial neural networks: Learn about the structure of neural networks, including concepts such as neurons, layers, weights, biases, and activation functions.
+- Learn about different types of neural networks: This includes feedforward neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), Long Short-Term Memory (LSTM) networks and Transformers.
+- Understand the process of training neural networks: Learn about forward propagation, cost functions, backpropagation, and gradient descent.
+- Learn about optimization algorithms: Understand different optimization techniques used in training neural networks, such as Stochastic Gradient Descent (SGD), RMSprop, Adam, and learning rate scheduling.
+- Understand the concept of overfitting and underfitting in the context of deep learning: Learn about techniques to prevent overfitting, such as dropout, early stopping, and regularization.
+- Learn about handling sequential data: Understand how RNNs, LSTMs, and GRUs are used to handle time-series data or any data where sequence matters.
+- Understand the basics of Convolutional Neural Networks: Learn how CNNs are used for image classification, object detection, and other computer vision tasks.
+- Learn about transfer learning: Understand how pre-trained models can be used to improve performance, especially when data is limited
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -181,6 +256,7 @@ This repo only includes resources that have at least some resources freely avail
 | [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html) | Jeremy Howard and Sylvain Gugger | 🟢 | Book that forms the basis of the [fast.ai course](https://course.fast.ai/) | 2022 | [📖](https://course.fast.ai/Resources/book.html) [🎥](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU&pp=iAQB) [📙](https://github.com/fastai/course22) [🌐](https://course.fast.ai/) |
 | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition) | Francois Chollet | 🟢 | Practical book by the developer of Keras. Will quickly get you into deep learning, but doesn’t cover mathematical details. Book costs around $50 but notebooks are freely available.| 2021 | [📖](https://www.manning.com/books/deep-learning-with-python-second-edition)  [📙](https://github.com/fchollet/deep-learning-with-python-notebooks)  | 
 | [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html) | Francois Fleuret | 🟢 | Short introduction to deep learning for readers with a STEM background | 2023 | [📖](https://fleuret.org/francois/lbdl.html) |
+| [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/) | Chris Bishop and Hugh Bishop | 🟡 | Comprehensive introduction to the central ideas that underpin deep learning, aimed at beginners and those experienced in the field. Can be viewed for free online. | 2024 | [📖](https://www.bishopbook.com/) |
 | [Dive into Deep Learning](https://d2l.ai/index.html) | A. Zhang, Z. Lipton, M. Li and A. Smola | 🟡 | Interactive deep learning book with code, math and discussions. Each section can be run as a Jupyter Notebook. | 2022 | [📖](https://d2l.ai/index.html) [📙](https://d2l.ai/index.html) |
 | [Understanding Deep Learning](https://udlbook.github.io/udlbook/) | Simon Prince | 🟡 | Book covering the ideas that underlie deep learning and many different architectures. | 2023 | [📖](https://udlbook.github.io/udlbook/) [📊](https://udlbook.github.io/udlbook/#:~:text=Resources%20for%20instructors) [📙](https://udlbook.github.io/udlbook/#:~:text=Resources%20for%20students) |
 | [Deep Learning Book](https://www.deeplearningbook.org/) | Ian Goodfellow | 🔴 | Covers mathematical and conceptual background of deep learning, but doesn't cover more modern methods (e.g. transformers) | 2016 | [📖](https://www.deeplearningbook.org/) [📊](https://www.deeplearningbook.org/lecture_slides.html) |
@@ -204,13 +280,20 @@ This repo only includes resources that have at least some resources freely avail
 **YOUTUBE PLAYLISTS**
 | [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 3Blue1Brown | 🟢 | Four short videos giving intuition behind neural networks, gradient descent and back-propagation. |  | [🎥](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
 | [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) | Andrej Karpathy | 🟡 | Excellent tutorials building neural networks from scratch in Jupyter Notebooks. | 2023 | [🎥](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=2826s) |
-| [Deep Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | DeepMind / UCL | 🔴 | In this lecture series,  research scientists from leading AI research lab, DeepMind, delivered 12 lectures on an exciting selection of topics in Deep Learning, ranging from the fundamentals of training neural networks via advanced ideas around memory, attention, and generative modelling to the important topic of responsible innovation. | 2020 | [🎥](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) |
+| [Deep Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | DeepMind / UCL | 🔴 | In this lecture series,  research scientists from DeepMind, deliver 12 lectures on deep learning topics, ranging from the fundamentals of training neural networks to the important topic of responsible innovation. | 2020 | [🎥](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) |
 **OTHER**
 | [Deep Learning Do It Yourself](https://dataflowr.github.io/website/) | Dataflowr | 🟡 | Collection of resources to allow students to understand papers, blog posts and codes available online and to adapt them to their projects as soon as possible. Learn using PyTorch | 2023 | [🌐](https://dataflowr.github.io/website/) [📙](https://github.com/dataflowr/notebooks/tree/master) |
 | [Annotated PyTorch Paper Implementations](https://nn.labml.ai/index.html) | labml.ai | 🔴 | PyTorch implementations of neural networks and related algorithms. Documented explanations side-by-side with the code. | 2023 | [🌐](https://nn.labml.ai/index.html) |
 
 
 ## Specialization: Computer Vision
+Computer Vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Here are some key learning outcomes for studying the fundamentals of computer vision:
+
+- Understand the use of convolutional neural networks in computer vision: Learn how CNNs are used for tasks like image classification, object detection, and semantic segmentation.
+- Understand the principles of object detection and recognition: Learn about techniques such as R-CNN, Fast R-CNN, and YOLO.
+- Learn about segmentation: Understand techniques for partitioning an image into multiple segments, including thresholding, clustering methods (like k-means), and more advanced techniques like Mask R-CNN.
+- Learn about transfer learning in the context of computer vision: Understand how pre-trained models on large datasets can be used to improve performance on computer vision tasks.
+
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -224,7 +307,71 @@ This repo only includes resources that have at least some resources freely avail
 | [Deep Learning for Computer Vision: Fundamentals and Applications](https://dl4cv.github.io/DL4CV_Winter23/index.html) | Weizmann Institute of Science | 🟡 | Course by Justin Johnson providing hands-on experience with deep learning for computer vision: implementing deep neural networks and their components from scratch, tackling real world tasks in computer vision using PyTorch. Videos from 2021 version of course. | 2023 | [🌐](https://dl4cv.github.io/DL4CV_Winter23/index.html) [🎥](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) [📊](https://dl4cv.github.io/DL4CV_Winter23/schedule.html) |
 
 
-## Specialization: NLP
+## Specialization: Generative Deep Learning
+Generative Deep Learning is a subset of machine learning that focuses on creating new data instances that resemble your training data. This is achieved by training models to generate data that can pass as "real" data, thereby learning the true data distribution of the training set. Generative models have a wide range of applications, including image synthesis, semantic image editing, style transfer, data augmentation and much more.
+
+Key learning objectives for studying Generative Deep Learning include:
+
+- Understanding the basics of generative models: This includes learning about the difference between generative and discriminative models and the use cases for generative models.
+- Learning about Generative Adversarial Networks (GANs): This involves understanding the architecture of GANs, how they work, and how to train them.
+- Grasping the principles of Variational Autoencoders (VAEs): This includes learning about the architecture of VAEs, how they work, and how to train them.
+- Learning about other generative models: This involves understanding other types of generative models such as autoregressive models and normalizing flows.
+- Understanding the use of generative models for data augmentation: This includes learning how to use generative models to augment your training data and improve the performance of your models.
+- Learning about the ethical considerations of generative models: This involves understanding the ethical implications of creating realistic synthetic data and how to use generative models responsibly.
+
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**BOOKS**
+| [GANs in Computer Vision](https://theaisummer.com/gans-computer-vision-ebook/) | AI Summer | 🟢 | A self-complete guide based on 20 foundational papers using generative adversarial networks in CV. Need to signup to receive ebook. | | [📖](https://theaisummer.com/gans-computer-vision-ebook/) |
+| [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) | David Foster | 🟢 | Covers the basics to cutting-edge architectures (VAEs, GANs, Transformers). Around $70 for book. Jupyter Notebooks examples freely available. | 2023 | [📙](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) |
+**COURSES**
+| [Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118) | Google | 🟢 | Provides an overview of generative AI concepts, from the fundamentals of large language models to responsible AI principles. | 2023 | [🌐](https://www.cloudskillsboost.google/journeys/118) |
+| [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | UC Berkeley | 🟡 | Covers deep generative models and self-supervised learning. | 2020 | [🌐](https://sites.google.com/view/berkeley-cs294-158-sp20/home) [🎥](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) [📝](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
+| [Generative Adversarial Networks (GANs) Specialization](https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/) | Coursera / Deeplearning.ai | 🟡 | Build a comprehensive knowledge base and gain hands-on experience in GANs. Train your own model using PyTorch, use it to create images, and evaluate a variety of advanced GANs. Free to audit. | | [🌐](https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/) |
+| [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/) | Cornell | 🔴 | PhD-level course covering the foundations of generative AI algorithms. Overview of main generative modeling families: VAEs, GANs, flows and diffusion models. | 2023 | [🌐](https://kuleshov-group.github.io/dgm-website/)  [🎥](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) |
+
+
+## Specialization: ML Deployment
+The deployment of machine learning models, often referred to as ML Ops or productionizing machine learning, is the process of transforming a machine learning model into an application that can be used in a practical business setting. It involves integrating the model into an existing production environment where it can receive input data, process it, and return output.
+
+Key learning objectives for studying Machine Learning Deployment include:
+
+- Understanding the basics of machine learning deployment: This includes learning about the lifecycle of a machine learning project, from data collection and model training to deployment and monitoring.
+- Learning about model versioning: This involves understanding how to manage different versions of a machine learning model and how to handle updates to the model.
+- Grasping the principles of model serving: This includes learning about how to set up a server to host the model and handle requests in real-time.
+- Learning about containerization: This involves understanding how to use technologies like Docker to package a model and its dependencies into a single, standalone unit that can be run anywhere.
+- Understanding the basics of scalability: This includes learning about how to ensure that your model can handle increasing amounts of requests as usage grows.
+- Learning about model monitoring: This involves understanding how to track the performance of your model over time and how to detect and handle any degradation in performance.
+- Understanding the use of CI/CD in machine learning: This includes learning about how to use continuous integration and continuous deployment to automate the deployment process and ensure that your model is always up to date.
+- Learning about data and feature stores: This involves understanding how to manage and store the data that your model needs to make predictions.
+
+| Title | Provider | Level |Description | Latest release | Resources |
+| --- | --- | --- | --- | --- | --- |
+**COURSES**
+| [Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) | Weights & Biases | 🟢 | Short and concise course covering best practices for MLOps. | | [🌐](https://www.wandb.courses/courses/effective-mlops-model-development) |
+| [Iterative Tools for Data Scientists & Analysts](https://learn.iterative.ai/) | Iterative | 🟢 | You will learn to apply the best practices from software development to machine learning projects using tools from Iterative. | | [🌐](https://learn.iterative.ai/) |
+| [MLOps for Developers](https://madewithml.com/courses/mlops/) | Made With ML | 🟢 | Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production ML applications. Course walks through fine-tuning LLM for production. | 2023 | [🌐](https://madewithml.com/courses/mlops/) [💻](https://github.com/GokuMohandas/Made-With-ML) | 
+| [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | DataTalksClub | 🟢 | Teaches practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring. | 2023 | [🎥](https://www.youtube.com/watch?v=s0uaFZSzwfI&)  [💻](https://github.com/DataTalksClub/mlops-zoomcamp)|
+| [Effective MLOps: CI/CD for Machine Learning (GitOps)](https://www.wandb.courses/courses/ci-cd-for-machine-learning) | Weights & Biases | 🟡 | Learn how to use GitHub Actions and integrate W&B experiment tracking in this practical, hands-on learning experience. | | [🌐](https://www.wandb.courses/courses/ci-cd-for-machine-learning) |
+| [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | The Full Stack / UC Berkeley | 🟡 | Learn how to develop production ready code through the development of a text recognizer app. | 2022 | [🌐](https://fullstackdeeplearning.com/course/2022/) [🎥](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) [💻](https://github.com/the-full-stack/fsdl-text-recognizer-2022-labs/tree/main) |
+| [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Coursera / DeepLearningAI | 🟡 | Four course specialization to learn how to productionize ML models. Free to audit. | 2022 | [🌐](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) [🎥](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) |
+| [ML Systems Design](https://stanford-cs329s.github.io/) | Stanford | 🟡 | This course (CS 329S) aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable. Videos not available, book not free. | 2022 | [🌐](https://stanford-cs329s.github.io) [📊](https://stanford-cs329s.github.io/syllabus.html#:~:text=Stanford%2C%20Winter%202022-,Schedule%20%26%20syllabus,-The%20lecture%20slides) [📖](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) | 
+| [Serverless Machine Learning & Principles of MLOps](https://www.serverless-ml.org/sml-course) | serverless-ml.org | 🟡 | In this course, you will build a prediction service, not just train a model. | | [🌐](https://www.serverless-ml.org/sml-course) [🎥](https://www.youtube.com/playlist?list=PLMeDf8qRRqgU_-erq30v-k8_it4pOqhoQ) [📊](https://github.com/featurestoreorg/serverless-ml-course#modules) [💻](https://github.com/featurestoreorg/serverless-ml-course) |
+
+
+## Specialization: Natural Language Processing
+Natural Language Processing (NLP) focuses on enabling computers to understand, interpret, and generate human language. This involves teaching machines to understand linguistic structures, meanings, and nuances to effectively process text data in a human-like manner. NLP combines computational linguistics and machine learning to create systems that can perform tasks such as translation, sentiment analysis, and topic extraction.
+
+Key learning objectives for studying NLP include:
+
+- Understanding the basics of text processing: This includes techniques such as tokenization, stemming, lemmatization, and part-of-speech tagging.
+- Learning about language modeling: This involves understanding concepts such as n-grams and the use of probabilistic models for predicting the next word in a sentence.
+- Grasping the principles of information extraction: This includes learning about named entity recognition, coreference resolution, and relation extraction.
+- Learning about text classification: This involves understanding how to use techniques like Naive Bayes and logistic regression for tasks such as spam detection or sentiment analysis.
+- Understanding the basics of syntactic analysis: This includes learning about parsing techniques to understand the grammatical structure of sentences.
+- Learning about semantic analysis: This involves understanding how to extract meaning from text, including word sense disambiguation and semantic role labeling.
+- Understanding the use of embeddings for representing text: This includes learning about techniques like Word2Vec and GloVe for creating dense vector representations of words.
+- Learning about sequence-to-sequence models: This involves understanding how to use models like RNNs, LSTMs, and Transformers for tasks like machine translation and text summarization.
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -246,6 +393,17 @@ This repo only includes resources that have at least some resources freely avail
 
 
 ## Specialization: Reinforcement Learning
+Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by taking actions in an environment to achieve a goal. The agent learns from the consequences of its actions, rather than from being explicitly taught, and adjusts its behavior based on the rewards and penalties it receives.
+
+Key learning objectives for studying RL include:
+
+- Understanding the basics of reinforcement learning: This includes concepts such as states, actions, rewards, and the reinforcement learning loop.
+- Learning about Markov Decision Processes (MDPs): This involves understanding how MDPs provide a mathematical framework for modeling decision-making in situations where outcomes are partly random and partly under the control of a decision-maker.
+- Grasping the principles of dynamic programming: This includes learning about techniques such as policy iteration and value iteration.
+- Learning about model-free methods: This involves understanding how to use techniques like Monte Carlo methods and Temporal-Difference learning for estimating value functions without a model of the environment.
+- Understanding the basics of function approximation: This includes learning about techniques for dealing with large or continuous state spaces, including linear function approximation and deep learning methods.
+- Learning about policy gradient methods: This involves understanding how to optimize policies directly based on the gradient ascent on the expected return.
+- Understanding the use of exploration and exploitation: This includes learning about the trade-off between exploiting what you already know to gain reward and exploring the environment to find better actions.
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -261,37 +419,10 @@ This repo only includes resources that have at least some resources freely avail
 | [Foundations of Deep RL](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) | Pieter Abbeel | 🟡 | Six part lecture series covering the foundations of deep reinforcement learning. | 2021 | [🎥](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)  [📊](https://www.dropbox.com/s/f9xyrdkpqugtrvq/l1-mdps-exact-methods.pdf?dl=0) |
 | [Reinforcement Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | DeepMind / UCL | 🟡 | Lecture series covering the fundamentals of reinforcement learning and planning in sequential decision problems, before progressing to more advanced topics and modern deep RL algorithms. | 2021 | [🎥](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) |
 
-## Specialization: Generative Deep Learning
-
-| Title | Provider | Level |Description | Latest release | Resources |
-| --- | --- | --- | --- | --- | --- |
-**BOOKS**
-| [GANs in Computer Vision](https://theaisummer.com/gans-computer-vision-ebook/) | AI Summer | 🟢 | A self-complete guide based on 20 foundational papers using generative adversarial networks in CV. Need to signup to receive ebook. | | [📖](https://theaisummer.com/gans-computer-vision-ebook/) |
-| [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) | David Foster | 🟢 | Covers the basics to cutting-edge architectures (VAEs, GANs, Transformers). Around $70 for book. Jupyter Notebooks examples freely available. | 2023 | [📙](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) |
-**COURSES**
-| [Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118) | Google | 🟢 | Provides an overview of generative AI concepts, from the fundamentals of large language models to responsible AI principles. | 2023 | [🌐](https://www.cloudskillsboost.google/journeys/118) |
-| [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) | UC Berkeley | 🟡 | Covers deep generative models and self-supervised learning. | 2020 | [🌐](https://sites.google.com/view/berkeley-cs294-158-sp20/home) [🎥](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) [📝](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
-| [Generative Adversarial Networks (GANs) Specialization](https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/) | Coursera / Deeplearning.ai | 🟡 | Build a comprehensive knowledge base and gain hands-on experience in GANs. Train your own model using PyTorch, use it to create images, and evaluate a variety of advanced GANs. Free to audit. | | [🌐](https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/) |
-
-
-
-## Specialization: ML Deployment
-
-| Title | Provider | Level |Description | Latest release | Resources |
-| --- | --- | --- | --- | --- | --- |
-**COURSES**
-| [Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) | Weights & Biases | 🟢 | Short and concise course covering best practices for MLOps. | | [🌐](https://www.wandb.courses/courses/effective-mlops-model-development) |
-| [Iterative Tools for Data Scientists & Analysts](https://learn.iterative.ai/) | Iterative | 🟢 | You will learn to apply the best practices from software development to machine learning projects using tools from Iterative. | | [🌐](https://learn.iterative.ai/) |
-| [MLOps for Developers](https://madewithml.com/courses/mlops/) | Made With ML | 🟢 | Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production ML applications. Course walks through fine-tuning LLM for production. | 2023 | [🌐](https://madewithml.com/courses/mlops/) [💻](https://github.com/GokuMohandas/Made-With-ML) | 
-| [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | DataTalksClub | 🟢 | Teaches practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring. | 2023 | [🎥](https://www.youtube.com/watch?v=s0uaFZSzwfI&)  [💻](https://github.com/DataTalksClub/mlops-zoomcamp)|
-| [Effective MLOps: CI/CD for Machine Learning (GitOps)](https://www.wandb.courses/courses/ci-cd-for-machine-learning) | Weights & Biases | 🟡 | Learn how to use GitHub Actions and integrate W&B experiment tracking in this practical, hands-on learning experience. | | [🌐](https://www.wandb.courses/courses/ci-cd-for-machine-learning) |
-| [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/) | The Full Stack / UC Berkeley | 🟡 | Learn how to develop production ready code through the development of a text recognizer app. | 2022 | [🌐](https://fullstackdeeplearning.com/course/2022/) [🎥](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) [💻](https://github.com/the-full-stack/fsdl-text-recognizer-2022-labs/tree/main) |
-| [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Coursera / DeepLearningAI | 🟡 | Four course specialization to learn how to productionize ML models. Free to audit. | 2022 | [🌐](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) [🎥](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) |
-| [ML Systems Design](https://stanford-cs329s.github.io/) | Stanford | 🟡 | This course (CS 329S) aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable. Videos not available, book not free. | 2022 | [🌐](https://stanford-cs329s.github.io) [📊](https://stanford-cs329s.github.io/syllabus.html#:~:text=Stanford%2C%20Winter%202022-,Schedule%20%26%20syllabus,-The%20lecture%20slides) [📖](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) | 
-| [Serverless Machine Learning & Principles of MLOps](https://www.serverless-ml.org/sml-course) | serverless-ml.org | 🟡 | In this course, you will build a prediction service, not just train a model. | | [🌐](https://www.serverless-ml.org/sml-course) [🎥](https://www.youtube.com/playlist?list=PLMeDf8qRRqgU_-erq30v-k8_it4pOqhoQ) [📊](https://github.com/featurestoreorg/serverless-ml-course#modules) [💻](https://github.com/featurestoreorg/serverless-ml-course) |
 
 
 ## Other: Applied ML/DL
+This section includes courses where machine/deep learning is applied to specific fields, such as healthcare and self-driving cars.
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -304,6 +435,7 @@ This repo only includes resources that have at least some resources freely avail
 | [Self-driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) | University of Tübingen | 🟡 | This course covers the most dominant paradigms of self-driving cars: modular pipeline-based approaches as well as deep-learning based end-to-end driving techniques. | 2021 | [🌐](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) [🎥](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) [📊](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/#:~:text=the%20lecture%20slides-,Schedule,-Date) [📝](https://drive.google.com/file/d/1N7aPV1xHVYqm25OfsfSIVusZ6ERkYmas/view) |
 
 ## Other: Misc Advanced Topics
+This section includes other useful courses covering advanced topics in machine learning.
 
 | Title | Provider | Level |Description | Latest release | Resources |
 | --- | --- | --- | --- | --- | --- |
@@ -319,6 +451,7 @@ This repo only includes resources that have at least some resources freely avail
 | [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | Stanford | 🟡 | This course focuses on the computational, algorithmic, and modeling challenges specific to the analysis of massive graphs, used for modelling social and technological systems. | 2023 | [🌐](http://web.stanford.edu/class/cs224w/) [🎥](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) [📊](http://web.stanford.edu/class/cs224w/#:~:text=Albert%2DL%C3%A1szl%C3%B3%20Barab%C3%A1si-,Schedule,-Lecture%20slides%20will) [📙](http://web.stanford.edu/class/cs224w/#:~:text=Albert%2DL%C3%A1szl%C3%B3%20Barab%C3%A1si-,Schedule,-Lecture%20slides%20will) |
 | [Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) | Carnegie Mellon University | 🟡 | Teaches the latest research addressing multimodal ML models for linguistics, acoustic and visual data. | 2022 | [🌐](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) [🎥](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) |
 | [Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa) | MIT | 🟡 | Covers scientific machine learning, including how partial differential equation simulations can be accelerated with neural networks. | 2021 | [🎥](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa) [📖](https://book.sciml.ai/) |
+| [Probabilistic Graphical Models](https://ermongroup.github.io/cs228-notes/) | Stanford | 🟡 | Introductory course (Stanford CS228) introducing probabilistic graphical models from the very basics and concludes by explaining from first principles the variational auto-encoder. | 2023 | [📝](https://ermongroup.github.io/cs228-notes/) |
 | [Quantum Machine Learning](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021) | Qiskit | 🟡 | Quantum computing experts and mentors share valuable insights through twenty lectures and five applied lab exercises that provide deep-dives exploring concepts in quantum computing, focused on the implementations of quantum machine learning algorithms in Qiskit. | 2021 | [🌐](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021) [🎥](https://www.youtube.com/watch?v=xgA4Dx_7q34&list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI&index=1) |
 | [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) | Richard McElreath | 🟡 | Use Bayesian data analysis to connect scientific models to evidence. Also learn powerful computational tools for coping with high-dimension, imperfect data of the kind that biologists and social scientists face. | 2022 | [🎥](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) [📙](https://github.com/rmcelreath/stat_rethinking_2022) |
 | [Tiny ML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940) | MIT | 🟡 | This course introduces efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. | 2023 | [🌐](https://hanlab.mit.edu/courses/2023-fall-65940) [🎥](https://www.youtube.com/watch?v=rCFvPEQTxKI&list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) [📊](https://hanlab.mit.edu/courses/2023-fall-65940#:~:text=4%20is%20out.-,Schedule,-Date) |
